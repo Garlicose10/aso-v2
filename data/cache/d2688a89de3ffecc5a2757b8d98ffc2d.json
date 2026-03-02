@@ -1,0 +1,71 @@
+{
+  "key": "gplay_app_{\"appId\":\"org.thoughtcrime.securesms\"}_us_en",
+  "timestamp": "2026-01-29T14:22:53.112Z",
+  "data": {
+    "title": "Signal Private Messenger",
+    "description": "Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.\n\n\n• Send texts, voice messages, photos, videos, GIFs, and files for free. Signal uses your phone’s data connection, so you avoid SMS and MMS fees.\n\n\n• Call your friends with crystal-clear encrypted voice and video calls. Group calls supported for up to 50 people.\n\n\n• Stay connected with group chats up to 1,000 people. Control who can post and manage group members with admin permission settings.\n\n\n• Share image, text, and video Stories that disappear after 24 hours. Privacy settings keep you in charge of exactly who can see each Story.\n\n\n• Signal is built for your privacy. We know nothing about you or who you’re talking to. Our open source Signal Protocol means that we can’t read your messages or listen to your calls. Neither can anyone else. No back doors, no data collection, no compromises.\n\n\n• Signal is independent and not for profit; a different kind of tech from a different kind of organization. As a 501c3 nonprofit we are supported by your donations, not by advertisers or investors.\n\n\n• For support, questions, or more information please visit https://support.signal.org/\n\n\nTo check out our source code, visit https://github.com/signalapp\n\n\nFollow us on Twitter @signalapp and Instagram @signal_app",
+    "descriptionHTML": "Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.<br><br><br>• Send texts, voice messages, photos, videos, GIFs, and files for free. Signal uses your phone’s data connection, so you avoid SMS and MMS fees.<br><br><br>• Call your friends with crystal-clear encrypted voice and video calls. Group calls supported for up to 50 people.<br><br><br>• Stay connected with group chats up to 1,000 people. Control who can post and manage group members with admin permission settings.<br><br><br>• Share image, text, and video Stories that disappear after 24 hours. Privacy settings keep you in charge of exactly who can see each Story.<br><br><br>• Signal is built for your privacy. We know nothing about you or who you’re talking to. Our open source Signal Protocol means that we can’t read your messages or listen to your calls. Neither can anyone else. No back doors, no data collection, no compromises.<br><br><br>• Signal is independent and not for profit; a different kind of tech from a different kind of organization. As a 501c3 nonprofit we are supported by your donations, not by advertisers or investors.<br><br><br>• For support, questions, or more information please visit https://support.signal.org/<br><br><br>To check out our source code, visit https://github.com/signalapp<br><br><br>Follow us on Twitter @signalapp and Instagram @signal_app",
+    "summary": "Say “hello” to privacy.",
+    "installs": "100,000,000+",
+    "minInstalls": 100000000,
+    "maxInstalls": 175712236,
+    "score": 4.5526905,
+    "scoreText": "4.6",
+    "ratings": 2817055,
+    "reviews": 130019,
+    "histogram": {
+      "1": 135948,
+      "2": 46486,
+      "3": 113863,
+      "4": 349091,
+      "5": 2171650
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$1.99 per item",
+    "androidVersion": "6.0",
+    "androidVersionText": "6.0",
+    "androidMaxVersion": "VARY",
+    "developer": "Signal Foundation",
+    "developerId": "Signal+Foundation",
+    "developerEmail": "support@signal.org",
+    "developerWebsite": "https://signal.org",
+    "privacyPolicy": "https://signal.org/privacy",
+    "developerInternalID": "Signal+Foundation",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "categories": [
+      {
+        "name": "Communication",
+        "id": "COMMUNICATION"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/FtGKSwVtpmMxKoJrJuI837DkYGRsqlMdiVPAd8bomLQZ3_Hc55XokY_dYdXKgGagiYs",
+    "headerImage": "https://play-lh.googleusercontent.com/Cn5J1mYsBFCcwCEO7Ev7XJMnzLDSAI5TcoUf_fnvJ2P7oFhdfXuNAdB31zXiiY31c9c",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/xRXui7PTkU-MrsnbuCPc0Y1ThX5uDUA-i0J5HGIxTM53aVL7ea_QdyO4jz8qXhNZODpu",
+      "https://play-lh.googleusercontent.com/UdTrogBUnJqf_KHHIgb7FHLrf7VJQrAg3sZ01zj3jo3qB2BoOjdwA521xfMnKHRhIVw",
+      "https://play-lh.googleusercontent.com/oWgzBb5N9ktqX0VQRHwoZsLRDt4CTvhv-lCE30PUemIKm12kdFpYVa5z4Zs2XDkMFI8",
+      "https://play-lh.googleusercontent.com/XboRGoT3waaaVoARMePXz8F9HhqV3_kfm1bNZ0wnXZQasWKKZNt9TrpztnzZzLVy2y0",
+      "https://play-lh.googleusercontent.com/7FKra5qKK56GWEGfzYMTiMyhrqGiE72CGuP1SSN2CqdSf99ZDJdtWIYX7BhOp_0vxWg",
+      "https://play-lh.googleusercontent.com/k91udGiQ6bOMGU-mQOitw6QxvFlD5Mb3f_pHYu_4RtW5v-eRGbfC_BrUTcd7s9PFCVHh",
+      "https://play-lh.googleusercontent.com/pI7vKKBU1I5rVounXmqz7KEWl35dxzfWNXvT29m0XivztJQ7smOTFdODQklwNiyvBok"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": false,
+    "released": "May 25, 2010",
+    "updated": 1769636572000,
+    "version": "7.70.1",
+    "recentChanges": "★ Signal polls are here! Polls are an easy way to see what your group chat really thinks. Create a poll with different dinner options or any other important choices. Everyone in the group can vote and see each other&#39;s responses, and you can decide whether or not to allow multiple votes.",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "org.thoughtcrime.securesms",
+    "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en&gl=us"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.cetinkaya.time_balance\"}_us_en",
+  "timestamp": "2026-01-29T21:15:48.289Z",
+  "data": {
+    "title": "Pomodoro Focus Timer: Balance",
+    "description": "Time Balance is a beautiful pomodoro timer and time tracking app designed to help you focus and reach your goals. Beat procrastination and boost productivity whether you're studying, working, or managing tasks. Use Time Balance as your study timer and stay on top of your studies.\n\nFLEXIBLE POMODORO TIMER\nUse the customizable pomodoro timer to break work into manageable intervals, enhancing your focus and efficiency. You can customize:\n\n- Pomodoro Length: Set your ideal focus time\n- Breaks: Customize the length of short and long breaks\n- Cycles: Decide how many Pomodoros before a long break\n- Timer Style: Choose to count down or up\n\nEASY TIME TRACKING\nTrack time with one tap and monitor your progress with detailed time tracking statistics. Visualize how much time you've worked on each project and share your statistics.\n\nSET GOALS\nIncrease your productivity by setting goals for your projects. Big goals are broken down into smaller daily goals which are automatically adjusted based on how much you've worked.\n\nTASKS & TAGS\nEnhance your focus by tracking specific tasks within projects. Assign tags for easy filtering and see exactly where your time goes.\n\nPROJECT GROUPS\nOrganize projects into groups like \"Work,\" \"Study,\" or \"Personal\" to keep your focus sharp and manage time effectively.",
+    "descriptionHTML": "Time Balance is a beautiful pomodoro timer and time tracking app designed to help you focus and reach your goals. Beat procrastination and boost productivity whether you&#39;re studying, working, or managing tasks. Use Time Balance as your study timer and stay on top of your studies.<br><br>FLEXIBLE POMODORO TIMER<br>Use the customizable pomodoro timer to break work into manageable intervals, enhancing your focus and efficiency. You can customize:<br><br>- Pomodoro Length: Set your ideal focus time<br>- Breaks: Customize the length of short and long breaks<br>- Cycles: Decide how many Pomodoros before a long break<br>- Timer Style: Choose to count down or up<br><br>EASY TIME TRACKING<br>Track time with one tap and monitor your progress with detailed time tracking statistics. Visualize how much time you&#39;ve worked on each project and share your statistics.<br><br>SET GOALS<br>Increase your productivity by setting goals for your projects. Big goals are broken down into smaller daily goals which are automatically adjusted based on how much you&#39;ve worked.<br><br>TASKS &amp; TAGS<br>Enhance your focus by tracking specific tasks within projects. Assign tags for easy filtering and see exactly where your time goes.<br><br>PROJECT GROUPS<br>Organize projects into groups like &quot;Work,&quot; &quot;Study,&quot; or &quot;Personal&quot; to keep your focus sharp and manage time effectively.",
+    "summary": "Time tracker for work and study: Boost you productivity and motivation",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "maxInstalls": 420480,
+    "score": 4.59,
+    "scoreText": "4.6",
+    "ratings": 5528,
+    "reviews": 35,
+    "histogram": {
+      "1": 49,
+      "2": 148,
+      "3": 493,
+      "4": 542,
+      "5": 4244
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$1.99 - $17.99 per item",
+    "androidVersion": "7.0",
+    "androidVersionText": "7.0",
+    "androidMaxVersion": "VARY",
+    "developer": "Ufuk Cetinkaya",
+    "developerId": "Ufuk+Cetinkaya",
+    "developerEmail": "ufuk.cetinkaya94@gmail.com",
+    "privacyPolicy": "https://ucetinkaya94.github.io/time-balance-2-privacy-policy/",
+    "developerInternalID": "Ufuk+Cetinkaya",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productivity",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/41A-nGRQwv1WaUbeRWBwpH9FePQa4W2MHTe_YLi4coIQ_VEk4nyEe99aL6ZiYuNVDg",
+    "headerImage": "https://play-lh.googleusercontent.com/bk6xegzMLYHLFGYB61hMZeEKWUlQSpj-eifGZoBhToFi0HzLWij7P7ADX_cli1oP2vdw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jsKwnYi7rH5NDqc5UCegIZjxeYXajkp-SZXIM28rx9AksOIF8t7S1XLrqJxJ2h84IFAA-YhPsCVJKooMoG6hBA",
+      "https://play-lh.googleusercontent.com/3YM8NsvuyqVfZMbrP9Bv4g_IHNvlMKmGx2JcszQ6ERsAEckmOL45Irhz2iSsSpBWJKOv",
+      "https://play-lh.googleusercontent.com/dV4G9R6ymtjfiwZte7bqqm1DsQmtgAoz_8S1UXmo1idbEAd9BIFF8fQdsBqykgQ5t4TISWXIA4sB5hwdXkPADQ",
+      "https://play-lh.googleusercontent.com/MtOj-roM0ZsUxoZ3V_6qKH8L6HyCpWAu1i1KgL6iB16kY4diIcTSw5Df41F6nV952dQ",
+      "https://play-lh.googleusercontent.com/j3vnpUmfr5I9QCWxu_Nnwy7zj5Kpuay9mVVs_TGsNy6Z0RUdPMbfY1X1S4VF7Q5Rc4M",
+      "https://play-lh.googleusercontent.com/QsZhmpCmZiukRZzV54pu1szftDBz-cNVT41rYb-0ojDfOgP5wOVTiKLSQtdl4Jf4oos"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": false,
+    "released": "Jun 19, 2020",
+    "updated": 1769548393000,
+    "version": "2.6.3",
+    "recentChanges": "Small improvements and bug fixes",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.cetinkaya.time_balance",
+    "url": "https://play.google.com/store/apps/details?id=com.cetinkaya.time_balance&hl=en&gl=us"
+  }
+}

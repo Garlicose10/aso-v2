@@ -1,0 +1,68 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.facebook.lite\"}_us_en",
+  "timestamp": "2026-01-29T14:22:59.621Z",
+  "data": {
+    "title": "Facebook Lite",
+    "description": "Keeping up with friends is faster and easier than ever with the Facebook Lite app! Use Facebook Lite as a friends app to connect and keep up with your social network. The Facebook Lite app is small, allowing you to save space on your phone and use Facebook in 2G conditions. Many of the classic features of Facebook are available on the app, such as sharing to a Timeline, liking photos, searching for people, and editing your profile and groups. Specific features include:\n \n • Find friends and family\n • Post status updates & use Facebook emoji to help relay what’s going on in your world\n • Share photos and your favorite memes\n • Get notified when friends like and comment on your posts\n • Find local social events, RSVP, and make plans to meet up with friends\n • Interact with your friends by adding your own comments or reactions to their Facebook posts\n • Save photos by adding them to photo albums\n • Follow people to get their latest news\n • Look up local businesses to see reviews, operation hours, and pictures\n • Buy and sell locally on Facebook Marketplace\n \nThe Facebook app does more than help you stay connected with your friends and interests. It's also your personal organizer for storing, saving and sharing photos. It's easy to share photos straight from your Android camera, and you have full control over your photos and privacy settings. You can choose when to keep individual photos private or even set up a secret photo album to control who sees it.\n \nFacebook Lite also helps you keep up with the latest news and current events around the world. Subscribe to your favorite celebrities, brands, websites, artists, or sports teams to follow their News Feeds from the convenience of your Facebook Lite app!\n\nConsumer Health Privacy Policy: https://www.facebook.com/privacy/policies/health \nProblems with downloading or installing the app? See https://www.facebook.com/help/fblite \nStill need help? Please tell us more about the issue: https://www.facebook.com/help/contact/640732869364975\nFacebook is only available to people aged 13 and over.\nTerms of Service: http://m.facebook.com/terms.php",
+    "descriptionHTML": "Keeping up with friends is faster and easier than ever with the Facebook Lite app! Use Facebook Lite as a friends app to connect and keep up with your social network. The Facebook Lite app is small, allowing you to save space on your phone and use Facebook in 2G conditions. Many of the classic features of Facebook are available on the app, such as sharing to a Timeline, liking photos, searching for people, and editing your profile and groups. Specific features include:<br> <br> • Find friends and family<br> • Post status updates &amp; use Facebook emoji to help relay what’s going on in your world<br> • Share photos and your favorite memes<br> • Get notified when friends like and comment on your posts<br> • Find local social events, RSVP, and make plans to meet up with friends<br> • Interact with your friends by adding your own comments or reactions to their Facebook posts<br> • Save photos by adding them to photo albums<br> • Follow people to get their latest news<br> • Look up local businesses to see reviews, operation hours, and pictures<br> • Buy and sell locally on Facebook Marketplace<br> <br>The Facebook app does more than help you stay connected with your friends and interests. It&#39;s also your personal organizer for storing, saving and sharing photos. It&#39;s easy to share photos straight from your Android camera, and you have full control over your photos and privacy settings. You can choose when to keep individual photos private or even set up a secret photo album to control who sees it.<br> <br>Facebook Lite also helps you keep up with the latest news and current events around the world. Subscribe to your favorite celebrities, brands, websites, artists, or sports teams to follow their News Feeds from the convenience of your Facebook Lite app!<br><br>Consumer Health Privacy Policy: https://www.facebook.com/privacy/policies/health <br>Problems with downloading or installing the app? See https://www.facebook.com/help/fblite <br>Still need help? Please tell us more about the issue: https://www.facebook.com/help/contact/640732869364975<br>Facebook is only available to people aged 13 and over.<br>Terms of Service: http://m.facebook.com/terms.php",
+    "summary": "This version of Facebook uses less data and works in all network conditions.",
+    "installs": "1,000,000,000+",
+    "minInstalls": 1000000000,
+    "maxInstalls": 3839024693,
+    "score": 4.548169,
+    "scoreText": "4.5",
+    "ratings": 35524619,
+    "reviews": 133638,
+    "histogram": {
+      "1": 1983666,
+      "2": 679560,
+      "3": 1502499,
+      "4": 3072368,
+      "5": 28286321
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$0.29 - $179.99 per item",
+    "androidVersion": "VARY",
+    "androidVersionText": "Varies with device",
+    "androidMaxVersion": "VARY",
+    "developer": "Meta Platforms, Inc.",
+    "developerId": "Meta+Platforms,+Inc.",
+    "developerEmail": "lite-android-support@fb.com",
+    "developerWebsite": "https://www.facebook.com/facebook",
+    "privacyPolicy": "https://www.facebook.com/about/privacy/",
+    "developerInternalID": "Meta+Platforms,+Inc.",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "categories": [
+      {
+        "name": "Social",
+        "id": "SOCIAL"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/U202Yto9o6IT1ZA8bgigA5q4nIzvu0S9ztl2d0WQSj6Iw0hIw5W7SIAnH0U2-Kk3nao",
+    "headerImage": "https://play-lh.googleusercontent.com/3ZDw6FMSCZg8hhdqzGBg1jk8_YDG9vORusUTNoflU8VtV9JqxGSbS6Nuoq0iommFWUU",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/3Esly3MwF73g4dB4IuxmMoJQh7qgy7Hh5XCpuPET0zvK0zBISlEXhdzjXvnm5njLhQ",
+      "https://play-lh.googleusercontent.com/jXWmqxZrKatY_sBgiwFI1uxvW7LLgekO5yjq6wYBO8z7NyzB31UA86Oe4oHA4ykyu8g",
+      "https://play-lh.googleusercontent.com/hVqMQECzExQOUJB8wJ4A6-rwMh3nh47PDT4Z_c9xBsxQcMjEDmnTJ-pLe2BX9pkw95NK",
+      "https://play-lh.googleusercontent.com/ghEy2j7mgZGm27lm9hZ52jjlsbMfsDXs8tVL_-VdsdJP0Mb4Rs1qCiibfccV-v3QSTQ",
+      "https://play-lh.googleusercontent.com/aP8WwgvrIqi_I8Lp-lAkm-Cw-bbo0tTzqPX2tpqJa8FEty4vMfxJorJB0bVQVySUFw"
+    ],
+    "contentRating": "Teen",
+    "adSupported": true,
+    "released": "Mar 15, 2018",
+    "updated": 1769523055000,
+    "version": "VARY",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.facebook.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.lite&hl=en&gl=us"
+  }
+}

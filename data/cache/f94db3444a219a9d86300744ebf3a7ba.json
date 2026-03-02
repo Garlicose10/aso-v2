@@ -1,0 +1,69 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.imo.android.imoimhd\"}_es_en",
+  "timestamp": "2026-01-29T14:22:55.060Z",
+  "data": {
+    "title": "imo HD - Video Calls and Chats",
+    "description": "imo is a FREE, simple, and secure international calling app, messaging app, and chatting app. It's used by over 200M people in more than 170 countries and regions, supporting 62 languages. imo brings innovative solutions for seamless communication like WhatsApp, Telegram and BOTIM do, allowing people to share key moments with others.\n■ Free & HD Video Call\nOver 300 million free video call are made through imo every day, connecting people worldwide just like WhatsApp and BOTIM. Make international call to your family & friends for FREE. You can also create a group video chat with friends for free, just as you could on Telegram. Experience clear & HD-quality instant free video call to family and friends around the world. Avoid SMS and phone call charges—no fees or subscriptions for every text, message or call, free in any way, similar to WhatsApp and BOTIM. imo is a calling app, messaging app and chatting app.\n■ International & Reliable Free Call\nConsistent & stable international audio and free video call over 2G, 3G, 4G, 5G, or Wi-Fi connection*, just like on Telegram or BOTIM. Send text or voice message or make free video call with family and friends around the world easily and quickly, even under a bad network, similar to WhatsApp and Telegram. imo is a calling app, messaging app and chatting app.\n■ imo Messenger\nConnect with your loved ones through free call, texts and message, just like on WhatsApp and Telegram. You can share photos and video, send and receive voice message or documents of any type (.DOC, .MP3, .ZIP, .PDF, etc.). All of your message history and files can be securely synced in imo Cloud to free up your phone storage, offering convenience similar to WhatsApp and Telegram. imo is a calling app, messaging app and chatting app.\n■ Chat Privacy\nimo ensures maximum privacy protection for your message. We use Time Machine, Disappearing Message, Privacy Chat, Screen Shield and End-to-End Encryption to enhance your chat privacy. You can erase any chat message, set message timers, and block screenshot, copy, share, and download for privacy chat, ensuring privacy protection similar to that of WhatsApp and Telegram.\n■ Instant Message Translation\nTranslate effortlessly for seamless cross-language conversations. imo supports instant text message translation similar to what Telegram has, making it easy to stay connected worldwide, just like on WhatsApp and BOTIM.\n■ Easy File Sharing\nShare anything from photos and videos to documents and apps smoothly in their original quality across countries!Simply press and hold any file to save it. Your files will be automatically sorted for easy access and efficient management.Enable Privacy Chat for added security. All your files will be protected with end-to-end encryption, making every file transfer safe and secure.\n■ VoiceClub\nConnect with family and share joy together in VoiceClub. Create or join rooms to chat and listen. Host various events like talent shows, talk shows, competitions, games, and ceremonies.\n*Data charges may apply. Contact your carrier for details.\nOfficial Website: https://imo.im/\nPrivacy Policy: https://imo.im/policies/privacy_policy.html\nTerms of Service: https://imo.im/policies/terms_of_service.html\nHelp & Feedback: https://activity.imoim.net/feedback/index.html",
+    "descriptionHTML": "imo is a FREE, simple, and secure international calling app, messaging app, and chatting app. It&#39;s used by over 200M people in more than 170 countries and regions, supporting 62 languages. imo brings innovative solutions for seamless communication like WhatsApp, Telegram and BOTIM do, allowing people to share key moments with others.<br>■ Free &amp; HD Video Call<br>Over 300 million free video call are made through imo every day, connecting people worldwide just like WhatsApp and BOTIM. Make international call to your family &amp; friends for FREE. You can also create a group video chat with friends for free, just as you could on Telegram. Experience clear &amp; HD-quality instant free video call to family and friends around the world. Avoid SMS and phone call charges—no fees or subscriptions for every text, message or call, free in any way, similar to WhatsApp and BOTIM. imo is a calling app, messaging app and chatting app.<br>■ International &amp; Reliable Free Call<br>Consistent &amp; stable international audio and free video call over 2G, 3G, 4G, 5G, or Wi-Fi connection*, just like on Telegram or BOTIM. Send text or voice message or make free video call with family and friends around the world easily and quickly, even under a bad network, similar to WhatsApp and Telegram. imo is a calling app, messaging app and chatting app.<br>■ imo Messenger<br>Connect with your loved ones through free call, texts and message, just like on WhatsApp and Telegram. You can share photos and video, send and receive voice message or documents of any type (.DOC, .MP3, .ZIP, .PDF, etc.). All of your message history and files can be securely synced in imo Cloud to free up your phone storage, offering convenience similar to WhatsApp and Telegram. imo is a calling app, messaging app and chatting app.<br>■ Chat Privacy<br>imo ensures maximum privacy protection for your message. We use Time Machine, Disappearing Message, Privacy Chat, Screen Shield and End-to-End Encryption to enhance your chat privacy. You can erase any chat message, set message timers, and block screenshot, copy, share, and download for privacy chat, ensuring privacy protection similar to that of WhatsApp and Telegram.<br>■ Instant Message Translation<br>Translate effortlessly for seamless cross-language conversations. imo supports instant text message translation similar to what Telegram has, making it easy to stay connected worldwide, just like on WhatsApp and BOTIM.<br>■ Easy File Sharing<br>Share anything from photos and videos to documents and apps smoothly in their original quality across countries!Simply press and hold any file to save it. Your files will be automatically sorted for easy access and efficient management.Enable Privacy Chat for added security. All your files will be protected with end-to-end encryption, making every file transfer safe and secure.<br>■ VoiceClub<br>Connect with family and share joy together in VoiceClub. Create or join rooms to chat and listen. Host various events like talent shows, talk shows, competitions, games, and ceremonies.<br>*Data charges may apply. Contact your carrier for details.<br>Official Website: https://imo.im/<br>Privacy Policy: https://imo.im/policies/privacy_policy.html<br>Terms of Service: https://imo.im/policies/terms_of_service.html<br>Help &amp; Feedback: https://activity.imoim.net/feedback/index.html",
+    "summary": "Global call- Secure,simple,stable chat app &amp; SMS messaging app",
+    "installs": "100,000,000+",
+    "minInstalls": 100000000,
+    "maxInstalls": 178218052,
+    "score": 4.26,
+    "scoreText": "4.3",
+    "ratings": 882465,
+    "reviews": 87,
+    "histogram": {
+      "1": 123453,
+      "2": 25147,
+      "3": 25147,
+      "4": 25147,
+      "5": 678995
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.29 - €234.99 if billed through Play",
+    "androidVersion": "5.0",
+    "androidVersionText": "5.0",
+    "androidMaxVersion": "VARY",
+    "developer": "imo.im",
+    "developerId": "imo.im",
+    "developerEmail": "feedback@imo.im",
+    "developerWebsite": "https://imo.im",
+    "privacyPolicy": "https://imo.im/privacy",
+    "developerInternalID": "imo.im",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "categories": [
+      {
+        "name": "Communication",
+        "id": "COMMUNICATION"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ZWNotaoX-mSQvZ6rl64w49EJdw8N-sIm16RSdWg3rQJbItcUmDB74tOLyj8R849gcF4",
+    "headerImage": "https://play-lh.googleusercontent.com/sgbfdNAMS-otv9rTjvc6zRKWQ1NrDys4pQQ3KbFsMWWZ__R6shRuQzxM3chkd8hPc8c",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/x-kTXpOAhRkoLExYSRzzLgCtDYEOBsC-d82r7jVUlOh5sqDt0Mf25-RgGo1DipeE5SdT",
+      "https://play-lh.googleusercontent.com/DTt5H9YIxbVhh6WsOe34Wd3N01V1Oqu-x5WLKnNYBtXmGd3q_GqQ9P-qrjEy4MjlTw",
+      "https://play-lh.googleusercontent.com/j3VIpbQbK2foiTMhr9RYT3U8uZhnGWkUi5gBS29XVsFe3Jz54O-Q8hTYTigsVO46mEbU",
+      "https://play-lh.googleusercontent.com/x3SGzVSGsvuhLvzQfjPZXDYCmsgnNLE67k6oaKWiwUN8a6eAWcVDHbkV_FzwrRZSMcI",
+      "https://play-lh.googleusercontent.com/L6Td8_LrW7Ax9FJB3kR8aZjdAN2tlssnss5TwpBFqvK0l8IYL8Amb6stMHbRSc9gZ9oK",
+      "https://play-lh.googleusercontent.com/kjykUb75IiuijVEJ6ohC8tX4yR9m4l9706uRpfTLKIhY5jao5uvZhOwxBjkWtbH4tvQ"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": true,
+    "released": "Mar 24, 2020",
+    "updated": 1767588302000,
+    "version": "2025.11.1058",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.imo.android.imoimhd",
+    "url": "https://play.google.com/store/apps/details?id=com.imo.android.imoimhd&hl=en&gl=es"
+  }
+}

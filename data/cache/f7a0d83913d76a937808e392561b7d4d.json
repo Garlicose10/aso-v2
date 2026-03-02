@@ -1,0 +1,71 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.facebook.katana\"}_es_en",
+  "timestamp": "2026-01-29T14:22:58.555Z",
+  "data": {
+    "title": "Facebook",
+    "description": "Where real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests: \n* Shop Marketplace for hidden gems and take your hobbies to the next level\n* Personalize your Feed to see more of what you like, less of what you don’t\n* Ask Meta AI for information and get answers instantly\n* Drive into reels that reflect the things you're interested in\n* Search Facebook on any topic and get more interactive results\n\nConnect with people and communities:\n* Join groups to learn tips from real people who’ve been there, done that\n* Get inspired by creators, or catch up with Friends\n* Add new Friends to your world, but also decide how closely to keep up with them\n* Privately message relatable posts that only your BFF will get or that reels trend everyone’s talking about\n* Catch up with your friends through video and voice calls\n\nShare your world:\n* Use generative AI to create custom stickers and images to delight friends\n* Customize your profile to choose how you show up and who sees your posts\n* Effortlessly create reels from trending templates, or showcase your creativity with a full suite of editing tools\n* Capture moments on the fly with stories\n\nSome features may not be available in your country or region. \n\nTerms & Policies: https://www.facebook.com/policies_center\nPrivacy Policy: https://www.facebook.com/privacy\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",
+    "descriptionHTML": "Where real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.<br><br>Explore and expand your interests: <br>* Shop Marketplace for hidden gems and take your hobbies to the next level<br>* Personalize your Feed to see more of what you like, less of what you don’t<br>* Ask Meta AI for information and get answers instantly<br>* Drive into reels that reflect the things you&#39;re interested in<br>* Search Facebook on any topic and get more interactive results<br><br>Connect with people and communities:<br>* Join groups to learn tips from real people who’ve been there, done that<br>* Get inspired by creators, or catch up with Friends<br>* Add new Friends to your world, but also decide how closely to keep up with them<br>* Privately message relatable posts that only your BFF will get or that reels trend everyone’s talking about<br>* Catch up with your friends through video and voice calls<br><br>Share your world:<br>* Use generative AI to create custom stickers and images to delight friends<br>* Customize your profile to choose how you show up and who sees your posts<br>* Effortlessly create reels from trending templates, or showcase your creativity with a full suite of editing tools<br>* Capture moments on the fly with stories<br><br>Some features may not be available in your country or region. <br><br>Terms &amp; Policies: https://www.facebook.com/policies_center<br>Privacy Policy: https://www.facebook.com/privacy<br><br>Learn how we&#39;re working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",
+    "summary": "A little connection can go a long way",
+    "installs": "10,000,000,000+",
+    "minInstalls": 10000000000,
+    "maxInstalls": 11167243563,
+    "score": 4.6358137,
+    "scoreText": "4.6",
+    "ratings": 178133118,
+    "reviews": 423828,
+    "histogram": {
+      "1": 6255212,
+      "2": 2045205,
+      "3": 6766015,
+      "4": 20184775,
+      "5": 142881736
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.09 - €3,299.99 if billed through Play",
+    "androidVersion": "VARY",
+    "androidVersionText": "Varies with device",
+    "androidMaxVersion": "VARY",
+    "developer": "Meta Platforms, Inc.",
+    "developerId": "Meta+Platforms,+Inc.",
+    "developerEmail": "facebook.android@fb.com",
+    "developerWebsite": "https://www.facebook.com/facebook",
+    "privacyPolicy": "https://www.facebook.com/about/privacy/",
+    "developerInternalID": "Meta+Platforms,+Inc.",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "categories": [
+      {
+        "name": "Social",
+        "id": "SOCIAL"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo",
+    "headerImage": "https://play-lh.googleusercontent.com/3jo1T7GeJublY9JK6qbn9VLasWjz3T07Zdh067IFbb98m0s5J8k6AJEOz4VYu05sw2a2KJrvsLY2_hkGunmOLA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/3H7wdpSX7ipLsCk_X_OvlmJ3FvBDQNVjuBhKHmKKWpDThS63sjmAu34Gx6vt8w5q86sYMRicdkpiQiNiU8-39w",
+      "https://play-lh.googleusercontent.com/ilWUr9x_JcqFczNoY-Z6rOEtS26TlKMQH2f9i0qLURpwk2Y8GbUNFj4anA3Lwz6qr0PCrxq3Kur7LJEjIiiPYg",
+      "https://play-lh.googleusercontent.com/bptiXUxXFg3fKOaqXYqxJso5L-YstrO209h21zqQSN4B4Hrmn0E9bA8_9rpjdF2BDBRulkPFaNKe99Ag_BSMiA",
+      "https://play-lh.googleusercontent.com/qXWLh14mhYx1MmFzrjrQyQHtkxpnvhD19i2StyYPSiswH6iJ6SWPUsT-La1hPUh2Yu8hjGTrGQt7Kjah8KRLKg",
+      "https://play-lh.googleusercontent.com/6igQQflj0tEBCi5K4pfTrJgvWSUZof5Y9Gty7fk8MMFr8_MyKVMoxbNk3Vl59sNjZD_9s8G-HmUwUpko1utCkw",
+      "https://play-lh.googleusercontent.com/nvyAAgUvTITce0FTpcZV1lPXxgLn9xhFbon3ldpkGpYEq854Q0CV1DTr5zA1LHwE0yhmPSaDFI6w2WymOTdjQdY",
+      "https://play-lh.googleusercontent.com/3-bZUuxG44F_BcnyGjGOKnZylSNKIfMLC7MNIACI9yK6uHFTIEU3raUWFUkrM6LbjzDVZSvHCcsNtSdr2Dl9jQ",
+      "https://play-lh.googleusercontent.com/F_NQmSVBHTxbmlA-EpIJUezNWXP05dVai6DwJhLugoH1Gme4xRHVzkR6R1pR6LEfOuUR7gVHbOY1a-B13BN5LQ"
+    ],
+    "contentRating": "Parental guidance",
+    "contentRatingDescription": "Parental Guidance Recommended",
+    "adSupported": true,
+    "updated": 1769111724000,
+    "version": "VARY",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.facebook.katana",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=es"
+  }
+}

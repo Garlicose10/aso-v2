@@ -1,0 +1,70 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.facebook.lite\"}_es_en",
+  "timestamp": "2026-01-29T14:22:59.045Z",
+  "data": {
+    "title": "Facebook Lite",
+    "description": "Whether you’re looking for a spark of inspiration with reels or want to dive deeper into something you already love with Marketplace or in groups, you can discover ideas, experiences and people that fuel your interests and help you make progress on the things that matter to you on Facebook.\n\nThe Facebook Lite app is small. It lets you save space on your phone and use Facebook in 2G conditions without sacrificing the core features and functionality of the app. \n\nExplore and expand your interests\n* Shop for affordable and uncommon stuff on Marketplace and take your hobbies to the next level\n* Personalize your Feed to see more of what you like, less of what you don’t\n* Watch reels for quick entertainment that sparks inspiration\n* Discover creators, small businesses and communities who can help you dive deeper into the things you care about\nConnect with people and communities\n* Join groups to learn tips and tricks from real people who’ve been there, done that\n* Catch up with friends, family and influencers through Feed and stories\n* Share the things that matter to you with easy in-app access to your Messenger chats\nShare your world\n* Let your creativity shine by making reels with trending audio and a suite of editing tools\n* Customize your profile to choose how you show up and who you share your posts with\n* Turn your hobby into a side hustle by becoming a creator or selling things on Marketplace\n* Celebrate everyday, candid moments with stories, which disappear in 24 hours\n\nProblems with downloading or installing the app? See https://www.facebook.com/help/fblite \nStill need help? Please tell us more about the issue: https://www.facebook.com/help/contact/640732869364975\nFacebook is only available to people aged 13 and over.\nTerms of Service: http://m.facebook.com/terms.php\n\nConsumer Health Privacy Policy: https://www.facebook.com/privacy/policies/health",
+    "descriptionHTML": "Whether you’re looking for a spark of inspiration with reels or want to dive deeper into something you already love with Marketplace or in groups, you can discover ideas, experiences and people that fuel your interests and help you make progress on the things that matter to you on Facebook.<br><br>The Facebook Lite app is small. It lets you save space on your phone and use Facebook in 2G conditions without sacrificing the core features and functionality of the app. <br><br>Explore and expand your interests<br>* Shop for affordable and uncommon stuff on Marketplace and take your hobbies to the next level<br>* Personalize your Feed to see more of what you like, less of what you don’t<br>* Watch reels for quick entertainment that sparks inspiration<br>* Discover creators, small businesses and communities who can help you dive deeper into the things you care about<br>Connect with people and communities<br>* Join groups to learn tips and tricks from real people who’ve been there, done that<br>* Catch up with friends, family and influencers through Feed and stories<br>* Share the things that matter to you with easy in-app access to your Messenger chats<br>Share your world<br>* Let your creativity shine by making reels with trending audio and a suite of editing tools<br>* Customize your profile to choose how you show up and who you share your posts with<br>* Turn your hobby into a side hustle by becoming a creator or selling things on Marketplace<br>* Celebrate everyday, candid moments with stories, which disappear in 24 hours<br><br>Problems with downloading or installing the app? See https://www.facebook.com/help/fblite <br>Still need help? Please tell us more about the issue: https://www.facebook.com/help/contact/640732869364975<br>Facebook is only available to people aged 13 and over.<br>Terms of Service: http://m.facebook.com/terms.php<br><br>Consumer Health Privacy Policy: https://www.facebook.com/privacy/policies/health",
+    "summary": "Explore, connect and share your interests with real people",
+    "installs": "1,000,000,000+",
+    "minInstalls": 1000000000,
+    "maxInstalls": 3839024693,
+    "score": 4.529922,
+    "scoreText": "4.5",
+    "ratings": 35524619,
+    "reviews": 18455,
+    "histogram": {
+      "1": 1939570,
+      "2": 706808,
+      "3": 1503808,
+      "4": 3810311,
+      "5": 27562695
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.09 - €204.99 if billed through Play",
+    "androidVersion": "VARY",
+    "androidVersionText": "Varies with device",
+    "androidMaxVersion": "VARY",
+    "developer": "Meta Platforms, Inc.",
+    "developerId": "Meta+Platforms,+Inc.",
+    "developerEmail": "lite-android-support@fb.com",
+    "developerWebsite": "https://www.facebook.com/facebook",
+    "privacyPolicy": "https://www.facebook.com/about/privacy/",
+    "developerInternalID": "Meta+Platforms,+Inc.",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "categories": [
+      {
+        "name": "Social",
+        "id": "SOCIAL"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Tll2LETWf7s67vK-OXqI3CbpwraoUK6tJH73z034zumyJa6CrWx1OTaYNQWj9jMKQUMU",
+    "headerImage": "https://play-lh.googleusercontent.com/2jRTJ3cnljrAs1WSXVrg5DrW-xMUIIMUh1f8boOxQBRZhb2iAM-3QlYBC31vtdIeZ2JD",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/yfiXt48YfBfnt45hyfmxfjV613lD585vPJ_TdwP_Hck3cFBiQagjuvoOHFKR6rLKnsQx",
+      "https://play-lh.googleusercontent.com/h6zg_mYF-1pgrSrxIdrv_vWMebDm0e9QgEoa17Qd228EcKcuQgV0w4mLqTC5EiMJWjA",
+      "https://play-lh.googleusercontent.com/iG_p-t3VdgyJQOEFxztSRbN2RBsXcCW5_JvCIB6PT3ZJPQOCk1RfL_TakS6-QaskSA",
+      "https://play-lh.googleusercontent.com/M5i3lorVh50L4r32c9B0g0Uv_NSUBG2aS5ozzMz9OAeH-pD2cBtAhryw-D7btWwc1w8",
+      "https://play-lh.googleusercontent.com/xaR3KnO15NBYTZ0rcARHmyl4kRRuxxi-qRMs-qGoU2FbaCC4FTpqwFmB82AxgTYJubU",
+      "https://play-lh.googleusercontent.com/OKQgD9n84BhbrpNdOCchITkZQk-9ns4drZxi0bxlJJLzhnoKMbve_wet62Ksn1LQsg"
+    ],
+    "contentRating": "Parental guidance",
+    "contentRatingDescription": "Parental Guidance Recommended",
+    "adSupported": true,
+    "released": "Jun 15, 2015",
+    "updated": 1769523055000,
+    "version": "VARY",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.facebook.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.lite&hl=en&gl=es"
+  }
+}

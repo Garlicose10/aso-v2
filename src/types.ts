@@ -32,7 +32,10 @@ export interface AppInfo {
   price?: number;
   ratings?: number;
   primaryGenre?: string;
+  developer?: string;
+  released?: string;
 }
+
 
 export interface SearchOptions {
   term: string;
@@ -137,4 +140,24 @@ export interface StoreConfig {
   throttle?: number;
   timeout?: number;
   cache?: boolean;
+}
+
+export interface Review {
+  id: string;
+  userName: string;
+  userImage?: string;
+  date: string;
+  score: number;
+  scoreText?: string;
+  url?: string;
+  title?: string;
+  text: string;
+  replyDate?: string;
+  replyText?: string;
+  version?: string;
+  thumbsUp?: number;
+  criterias?: Array<{
+    criteria: string;
+    rating: number;
+  }>;
 }

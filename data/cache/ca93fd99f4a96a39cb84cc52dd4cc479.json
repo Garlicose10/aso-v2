@@ -1,0 +1,69 @@
+{
+  "key": "gplay_app_{\"appId\":\"io.limeware.pomotimer\"}_es_en",
+  "timestamp": "2026-01-29T21:15:48.827Z",
+  "data": {
+    "title": "Pomo: Pomodoro Timer",
+    "description": "Boost your productivity and focus with a simple Pomodoro timer app!\nPerfect for students, professionals, and anyone looking to manage time effectively, this app helps you achieve your goals using the proven Pomodoro technique.\n\nKey Features:\n⏱️ Pomodoro Timer: Stay focused by breaking tasks into intervals with short breaks.\n⚙️ Customizable Sessions: Adjust focus and break durations to fit your workflow.\n🎨 Personalized Colors: Set unique colors for focus, short break, and long break sessions.\n📊 Progress Tracking: Monitor your sessions and build productive habits over time.\n🚀 Focus Tools: Minimize distractions and stay in the zone.\n🔔 Session Reminders: Receive notifications to start or end sessions seamlessly.\n✨ User-Friendly Design: Enjoy an intuitive interface for effortless productivity.\n\nWhether you're preparing for exams, tackling work projects, or building better habits, this app helps make productivity easy and effective. Download now and take control of your time!",
+    "descriptionHTML": "Boost your productivity and focus with a simple Pomodoro timer app!<br>Perfect for students, professionals, and anyone looking to manage time effectively, this app helps you achieve your goals using the proven Pomodoro technique.<br><br>Key Features:<br>⏱️ Pomodoro Timer: Stay focused by breaking tasks into intervals with short breaks.<br>⚙️ Customizable Sessions: Adjust focus and break durations to fit your workflow.<br>🎨 Personalized Colors: Set unique colors for focus, short break, and long break sessions.<br>📊 Progress Tracking: Monitor your sessions and build productive habits over time.<br>🚀 Focus Tools: Minimize distractions and stay in the zone.<br>🔔 Session Reminders: Receive notifications to start or end sessions seamlessly.<br>✨ User-Friendly Design: Enjoy an intuitive interface for effortless productivity.<br><br>Whether you&#39;re preparing for exams, tackling work projects, or building better habits, this app helps make productivity easy and effective. Download now and take control of your time!",
+    "summary": "Focus with Pomo (formerly Pomotimer) — a simple Pomodoro timer for work &amp; study",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "maxInstalls": 180780,
+    "score": 4.7058825,
+    "scoreText": "4.7",
+    "ratings": 2859,
+    "reviews": 24,
+    "histogram": {
+      "1": 56,
+      "2": 0,
+      "3": 56,
+      "4": 504,
+      "5": 2242
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€3.09 - €49.99 if billed through Play",
+    "androidVersion": "7.0",
+    "androidVersionText": "7.0",
+    "androidMaxVersion": "VARY",
+    "developer": "Kodeo Labs",
+    "developerId": "5782587893430190106",
+    "developerEmail": "support@limeware.io",
+    "developerWebsite": "https://limeware.io",
+    "privacyPolicy": "https://kodeo.io/pomotimer/privacy/",
+    "developerInternalID": "5782587893430190106",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productivity",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/nyw-T9VA_ycn4-fpNGMHHNrW_LrZpBYrKsHzlzpSQFzsIwag1Fe4fxIgA8ckGDqwZOw",
+    "headerImage": "https://play-lh.googleusercontent.com/6bsqsqgjrb74anbv-tNb5jrj5BxGzqrAfiGP9Wik5qCSxNu5yyU19lL7zxpcPaX9AksqYstEJ0Bd5f9lhkV82A",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/z7qlNS5VRfhmePdtKrUVR4V7orOeekv6uKBhN4Vkd5hsiT-YPYNVkODRCpw7dMxYMTJGpB2i-KDQqwz91kJaBA",
+      "https://play-lh.googleusercontent.com/PD3kjMAdvOCd8nvAEJCyJLvd3rUjo0nTM_x5WhSIvX7BU6VZJM-zF2byBtJXOCfPZGHH7xS2giLW1AXbWNMW",
+      "https://play-lh.googleusercontent.com/BXLhV5Vd2xSBmTOqTn9iTz2hbbsNKQBlLvkEkaoaYxaItCFwKpt7h1Ehxnw2uL9u2av1xRz2lmKRtARlg__F1HI",
+      "https://play-lh.googleusercontent.com/crZoSElrFp6HGK9uIwRuuVg5wOfsDa1JYmS9m5W37DtyY6tJdK_V61D9_inYOqVcBVlqBJe7uLy37mnCTOKJ-g",
+      "https://play-lh.googleusercontent.com/D5Zkr3iOsD5vKPf08h7dNqxCd8GqDCB1APH7CZDualtIYD9yJNQA1SRixxfbj63X0AQ7W35J1LeHR-fhqSrZAg"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": false,
+    "released": "Nov 26, 2024",
+    "updated": 1766410468000,
+    "version": "5.2.2",
+    "recentChanges": "Bug fixes and improvements<br><br>We’ve made small fixes and performance improvements to keep Pomo running smoothly and reliably.<br>Thank you for using Pomo 💚",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "io.limeware.pomotimer",
+    "url": "https://play.google.com/store/apps/details?id=io.limeware.pomotimer&hl=en&gl=es"
+  }
+}

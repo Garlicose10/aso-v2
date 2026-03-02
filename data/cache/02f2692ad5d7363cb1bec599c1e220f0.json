@@ -1,0 +1,70 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.tencent.mm\"}_es_en",
+  "timestamp": "2026-01-29T14:22:52.694Z",
+  "data": {
+    "title": "WeChat",
+    "description": "WeChat is more than a messaging and social media app – it is a lifestyle for over one billion users across the world. Chat and make calls with friends, share your life's favorite Moments, enjoy mobile payment features, and much more.\n\nWhy do over one billion people use WeChat?\n- MORE WAYS TO CHAT: Message friends using text, photo, voice, video, location sharing, and more. Create group chats with up to 500 members.\n- VOICE & VIDEO CALLS: High-quality voice and video calls to anywhere in the world. Make group video calls with up to 9 people.\n- MOMENTS: Share your favorite moments. Post photos, videos, and more to your Moments stream.\n- STATUS: post your status to capture your mood and share an ephemeral experience with friends\n- STICKER GALLERY: Browse thousands of fun, animated stickers to help express yourself in chats, including stickers with your favorite cartoon and movie characters.\n- CUSTOM STICKERS: Make chatting more unique with custom stickers and Selfie Stickers feature.\n- REAL-TIME LOCATION: Not good at explaining directions? Share your real-time location with the press of a button.\n-PAY: Enjoy the convenience of world-leading mobile payment features with Pay and Wallet (*only available in certain regions).\n- WECHAT OUT: Make calls to mobile phones and landlines around the globe at super low rates (*only available in certain regions).\n- LANGUAGE SUPPORT: Localized in 18 different languages and can translate friends’ messages and Moments posts.\n- BETTER PRIVACY: Giving you the highest level of control over your privacy, WeChat is certified by TRUSTe.\n- EXPAND YOUR WORLD WITH WEIXIN SERVICES: Activate Channels, Official Accounts, Mini Programs, and other features offered via WeChat's sister service, Weixin.\n- AND MUCH MORE...",
+    "descriptionHTML": "WeChat is more than a messaging and social media app – it is a lifestyle for over one billion users across the world. Chat and make calls with friends, share your life&#39;s favorite Moments, enjoy mobile payment features, and much more.<br><br>Why do over one billion people use WeChat?<br>- MORE WAYS TO CHAT: Message friends using text, photo, voice, video, location sharing, and more. Create group chats with up to 500 members.<br>- VOICE &amp; VIDEO CALLS: High-quality voice and video calls to anywhere in the world. Make group video calls with up to 9 people.<br>- MOMENTS: Share your favorite moments. Post photos, videos, and more to your Moments stream.<br>- STATUS: post your status to capture your mood and share an ephemeral experience with friends<br>- STICKER GALLERY: Browse thousands of fun, animated stickers to help express yourself in chats, including stickers with your favorite cartoon and movie characters.<br>- CUSTOM STICKERS: Make chatting more unique with custom stickers and Selfie Stickers feature.<br>- REAL-TIME LOCATION: Not good at explaining directions? Share your real-time location with the press of a button.<br>-PAY: Enjoy the convenience of world-leading mobile payment features with Pay and Wallet (*only available in certain regions).<br>- WECHAT OUT: Make calls to mobile phones and landlines around the globe at super low rates (*only available in certain regions).<br>- LANGUAGE SUPPORT: Localized in 18 different languages and can translate friends’ messages and Moments posts.<br>- BETTER PRIVACY: Giving you the highest level of control over your privacy, WeChat is certified by TRUSTe.<br>- EXPAND YOUR WORLD WITH WEIXIN SERVICES: Activate Channels, Official Accounts, Mini Programs, and other features offered via WeChat&#39;s sister service, Weixin.<br>- AND MUCH MORE...",
+    "summary": "Connecting over a billion people with calls, chats, and more",
+    "installs": "100,000,000+",
+    "minInstalls": 100000000,
+    "maxInstalls": 435883199,
+    "score": 3.2050972,
+    "scoreText": "3.2",
+    "ratings": 6119304,
+    "reviews": 15846,
+    "histogram": {
+      "1": 2316940,
+      "2": 222747,
+      "3": 282120,
+      "4": 482653,
+      "5": 2814538
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.65 - €16.99 if billed through Play",
+    "androidVersion": "VARY",
+    "androidVersionText": "Varies with device",
+    "androidMaxVersion": "VARY",
+    "developer": "WeChat",
+    "developerId": "7413279381841434225",
+    "developerEmail": "support@help.wechat.com",
+    "developerWebsite": "http://www.wechat.com",
+    "privacyPolicy": "https://www.wechat.com/mobile/htdocs/en/privacy_policy.html",
+    "developerInternalID": "7413279381841434225",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "categories": [
+      {
+        "name": "Communication",
+        "id": "COMMUNICATION"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/QbSSiRcodmWx6HlezOtNu3vmZeuFqkQZQQO5Y2-Zg_jBRm-mXjhlXX5yFj8iphfqzQ",
+    "headerImage": "https://play-lh.googleusercontent.com/WaMFsN5Hlwc24HHFMMNuUE_whpxHxnPPN-qrt2v_IVM5ybAdCTdgdKRqUyZ0KuQX0g",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/kqbC5FT6oocmvOX5VBCJmoVSBbfh5SaLFP0t-0Xzgeq2k009ABilOtWp0yCY8DTMTcY",
+      "https://play-lh.googleusercontent.com/3Mx9VIT_Z0u4JB782OGpnkIupwQrcPBgJgxWx3XHmieprP04mhtnKALWmTlM4MqEhfU",
+      "https://play-lh.googleusercontent.com/sNtKfdQOOEwFJv79IilyZ6FukUwP5Y3sskyfyxuc35yOrfZHZssdzmYBizo30x01q0Y",
+      "https://play-lh.googleusercontent.com/r3rdhnhJ_rRdQIwyMW3RgH65t88wORNdsNx4WsqVFnp96YzfIjxotzW4QeZtranKjbU",
+      "https://play-lh.googleusercontent.com/x4v86yD-gbZ2Skze8RUr9MYrngUh1Yzs87P1PQmw1RJn8Ik59AcQO-AJnzJsAIDeewtS"
+    ],
+    "contentRating": "Parental guidance",
+    "contentRatingDescription": "Parental Guidance Recommended",
+    "adSupported": false,
+    "released": "Jan 30, 2011",
+    "updated": 1767007131000,
+    "version": "VARY",
+    "recentChanges": "What&#39;s New in WeChat V8.0.66<br>- Minor bug fixes.",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.tencent.mm",
+    "url": "https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=es"
+  }
+}

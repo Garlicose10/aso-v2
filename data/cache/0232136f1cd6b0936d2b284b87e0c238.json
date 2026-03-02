@@ -1,0 +1,68 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.pomodrone.app\"}_es_en",
+  "timestamp": "2026-01-29T21:15:48.247Z",
+  "data": {
+    "title": "Pomodoro Timer",
+    "description": "Bring structure to your workflow by utilising time blocking technique.\n\n\nTime blocking is an effective strategy for using time wisely and achieving greater results. Blocking out time for specific activities allows you to focus on one task at a time, limit distractions and procrastination.\n\n\nIt's really simple to use:\n\n\n1. Define your tasks at hand, make a task list.\n\n2. Define a block of time during which you will eliminate all distractions and give all your focus to your tasks. Start the timer and work.\n\n3. Take frequent breaks. Regular breaks are conducive to greater productivity and concentration. During these breaks take a breath of fresh air, do some push-ups, stretch or anything else that helps you to restore your power. Your body will thank you.\n\n4. Repeat this work/break cycle and take a longer breaks when you feel you need to.\n\n\nDaily goal setting, minimalistic design beautiful color themes, notifications and more.",
+    "descriptionHTML": "Bring structure to your workflow by utilising time blocking technique.<br><br><br>Time blocking is an effective strategy for using time wisely and achieving greater results. Blocking out time for specific activities allows you to focus on one task at a time, limit distractions and procrastination.<br><br><br>It&#39;s really simple to use:<br><br><br>1. Define your tasks at hand, make a task list.<br><br>2. Define a block of time during which you will eliminate all distractions and give all your focus to your tasks. Start the timer and work.<br><br>3. Take frequent breaks. Regular breaks are conducive to greater productivity and concentration. During these breaks take a breath of fresh air, do some push-ups, stretch or anything else that helps you to restore your power. Your body will thank you.<br><br>4. Repeat this work/break cycle and take a longer breaks when you feel you need to.<br><br><br>Daily goal setting, minimalistic design beautiful color themes, notifications and more.",
+    "summary": "Bring structure to your workflow by utilising time blocking POMODORO technique.",
+    "installs": "5,000,000+",
+    "minInstalls": 5000000,
+    "maxInstalls": 5761215,
+    "score": 4.601036,
+    "scoreText": "4.6",
+    "ratings": 161117,
+    "reviews": 893,
+    "histogram": {
+      "1": 6249,
+      "2": 1666,
+      "3": 5833,
+      "4": 22498,
+      "5": 124785
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": false,
+    "androidVersion": "8.1",
+    "androidVersionText": "8.1",
+    "androidMaxVersion": "VARY",
+    "developer": "Appfx.eu",
+    "developerId": "Appfx.eu",
+    "developerEmail": "pomodoro@appfx.eu",
+    "privacyPolicy": "https://info.appfx.eu/pomodrone-privacy-notice",
+    "developerInternalID": "Appfx.eu",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productivity",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/MmFSl0dEvPWnpChE4N1Xq5SB5J7zNBNIRxhrB1ouX4Ol2GIt469f2ek78PcEdTk03Q",
+    "headerImage": "https://play-lh.googleusercontent.com/Mwir_iB3Jggkin-jd6ala_W2XJG52srSOWfvATDF4UlFcvGOpN4WEghvDYp6xEBB244",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fi6EeMLPkDuJ-3UkLIaRWCvIfQXeposBZyCOIvBqMNwCwtkDAW8ywy2qHXsiaiEL1Q",
+      "https://play-lh.googleusercontent.com/xBiWqbbHe61IISsMrE74I3UIGlp3wn_NWaiuW9Qb-aM8Uj5q2ciwnOmN-kZFzvlLphQ",
+      "https://play-lh.googleusercontent.com/zrpkKbeCoqyUPPtM8wUuykTErvQWo1--ADNVWz5r09vYtybS-MF1oyVw7DtU1gX1WA",
+      "https://play-lh.googleusercontent.com/jAJyIUc9YkreB_4PvRZm6wT_Poe7oDnj4s5y1ejE0HJGVMnPLsKKwW6D0YmH3Avgh3E",
+      "https://play-lh.googleusercontent.com/Uxxl2Exs1U7GTqw16VqW0WZT5WR7zA4Ww7XNdxRLJG0j8xkdmZ7phyUxMrjxGwlPAi8",
+      "https://play-lh.googleusercontent.com/nctJzWzbZNSFAbPiuETwlOOp73BM6RyjFYSnP3JVPi60dvScazKxYuV045hLQ9TDk2jB"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": false,
+    "released": "Nov 3, 2019",
+    "updated": 1719911135000,
+    "version": "1.42.0",
+    "recentChanges": "Update for Android 14 (Upside Down Cake)",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.pomodrone.app",
+    "url": "https://play.google.com/store/apps/details?id=com.pomodrone.app&hl=en&gl=es"
+  }
+}

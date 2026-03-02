@@ -1,0 +1,72 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.zhiliaoapp.musically\"}_es_en",
+  "timestamp": "2026-01-29T14:22:59.518Z",
+  "data": {
+    "title": "TikTok: videos, LIVEs, música",
+    "description": "TikTok es una comunidad global de vídeos cortos. Con esta app podrás descubrir, crear y editar vídeos increíbles, y compartirlos fácilmente con tus amigos y el mundo. Crea y edita vídeos al instante usando filtros especiales, stickers divertidos y mucho más. \n\n🔥 Descubre millones de vídeos seleccionados especialmente para ti. ¡Una experiencia diseñada específicamente basada en el contenido que te gusta ver!  ¡Pon like y comparte! Aprenderemos de tus hábitos para ofrecerte los vídeos más relevantes, interesantes e inspiradores según tus gustos. \n\n😎 Diviértete e inspírate por una comunidad global de creadores. Millones de creadores están en TikTok demostrando sus increíbles habilidades e historias. Déjate entretener, déjate inspirar. \n\n🎵 ¡Añade tu música favorita o sonidos a tus vídeos! \nEdita tus videos con millones de clips de música y sonidos. Hemos creado listas de reproducción con las canciones más populares del momento de cada género, incluyendo pop, rock, rap, electrónica, R&B, reggaetón, trap y muchos más. 😍 Usa más de 100 stickers, emojis y filtros faciales para llevar tus vídeos al siguiente nivel. Descubre toneladas de filtros divertidos y efectos de belleza. Herramientas de edición que te permiten cortar, editar, duplicar y mover de lugar tus vídeos. \n\n🎥 Filtros de directos actualizados constantemente con diseños creativos. Vídeos de baile, comedia, vlog, belleza, maquillaje, moda, deportes, animales y mucho más. En TikTok puedes encontrar vídeos perfectos para ti. \n\n*¿Tienes alguna duda o sugerencia? Contáctanos en feedback@tiktok.com o envíanos un tweet a @tiktok.",
+    "descriptionHTML": "TikTok es una comunidad global de vídeos cortos. Con esta app podrás descubrir, crear y editar vídeos increíbles, y compartirlos fácilmente con tus amigos y el mundo. Crea y edita vídeos al instante usando filtros especiales, stickers divertidos y mucho más. <br><br>🔥 Descubre millones de vídeos seleccionados especialmente para ti. ¡Una experiencia diseñada específicamente basada en el contenido que te gusta ver!  ¡Pon like y comparte! Aprenderemos de tus hábitos para ofrecerte los vídeos más relevantes, interesantes e inspiradores según tus gustos. <br><br>😎 Diviértete e inspírate por una comunidad global de creadores. Millones de creadores están en TikTok demostrando sus increíbles habilidades e historias. Déjate entretener, déjate inspirar. <br><br>🎵 ¡Añade tu música favorita o sonidos a tus vídeos! <br>Edita tus videos con millones de clips de música y sonidos. Hemos creado listas de reproducción con las canciones más populares del momento de cada género, incluyendo pop, rock, rap, electrónica, R&amp;B, reggaetón, trap y muchos más. 😍 Usa más de 100 stickers, emojis y filtros faciales para llevar tus vídeos al siguiente nivel. Descubre toneladas de filtros divertidos y efectos de belleza. Herramientas de edición que te permiten cortar, editar, duplicar y mover de lugar tus vídeos. <br><br>🎥 Filtros de directos actualizados constantemente con diseños creativos. Vídeos de baile, comedia, vlog, belleza, maquillaje, moda, deportes, animales y mucho más. En TikTok puedes encontrar vídeos perfectos para ti. <br><br>*¿Tienes alguna duda o sugerencia? Contáctanos en feedback@tiktok.com o envíanos un tweet a @tiktok.",
+    "summary": "Esta app es Para Ti. Descubre vídeos, música, tendencias, LIVEs y mucho más",
+    "installs": "1,000,000,000+",
+    "minInstalls": 1000000000,
+    "maxInstalls": 4110752970,
+    "score": 3.9600537,
+    "scoreText": "4.0",
+    "ratings": 68060816,
+    "reviews": 310581,
+    "histogram": {
+      "1": 12230278,
+      "2": 2541462,
+      "3": 3765750,
+      "4": 6702348,
+      "5": 42820806
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.05 - €1,137.40 if billed through Play",
+    "androidVersion": "VARY",
+    "androidVersionText": "Varies with device",
+    "androidMaxVersion": "VARY",
+    "developer": "TikTok Pte. Ltd.",
+    "developerId": "TikTok+Pte.+Ltd.",
+    "developerEmail": "feedback@tiktok.com",
+    "developerWebsite": "https://www.tiktok.com/",
+    "privacyPolicy": "https://www.tiktok.com/legal/privacy-policy",
+    "developerInternalID": "TikTok+Pte.+Ltd.",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "categories": [
+      {
+        "name": "Social",
+        "id": "SOCIAL"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/O_h4ClX9sUT-JGBsmRbUmXsRx7u7MOCL3ml3gctQ62GJwOYD_bgwC-VcGNAdBtkiddA",
+    "headerImage": "https://play-lh.googleusercontent.com/CVP4IgNG1OzokWF1cyow5j9hkHN_skIqtQkQftZ9qZ7y067f7gpPhOF5i1ilOh0arAE",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tg7WBdUaaaUK76eooPMysL0XRldE4mmb5TAw9k6lholfK_Rpjgkjhc4m8Sq7JP6_lz8",
+      "https://play-lh.googleusercontent.com/BJqIxtThIpZyGx8NMz7yednOAFGc0MP6OqLoeg9W0KtMSDw4vDn6MtjGPVW9eToGS55h",
+      "https://play-lh.googleusercontent.com/ZNienkyISWFt9KAzCb40BssL_kHBQXREExsVugMoVvRFxr6IbDRUOrwCxO4btPYaVQ",
+      "https://play-lh.googleusercontent.com/UE2SX7EGhRgQPHgaF814W7vBsktnfLTuabGsdEQVimF_bK81MxpGQlNgMFapYwGxBQ",
+      "https://play-lh.googleusercontent.com/VRtsOHG7AcAhaGTelgmFFjpoCSHXbH_31hm5gfnv75gmifvdaDQbUVCJQq124FKU3TI",
+      "https://play-lh.googleusercontent.com/yzH3d_nvwECJQcUaZpnHYC9aH0TYXX7h9EhcIZ7_4YZXhoMgaYfcrU3JACEpXVBYrA8",
+      "https://play-lh.googleusercontent.com/sZaqwRKypGcEEuAfkZ7wsR11aNsB8d4_z-TDT587S1JYsrIvWCqT5ytdYgQKenWg5w"
+    ],
+    "contentRating": "Parental guidance",
+    "contentRatingDescription": "Parental Guidance Recommended",
+    "adSupported": true,
+    "released": "Sep 14, 2015",
+    "updated": 1769609342000,
+    "version": "VARY",
+    "recentChanges": "Quickly create videos with our latest tools and effects for creators.",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.zhiliaoapp.musically",
+    "url": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=es"
+  }
+}

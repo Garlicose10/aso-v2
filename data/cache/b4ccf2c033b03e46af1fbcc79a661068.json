@@ -1,0 +1,72 @@
+{
+  "key": "gplay_app_{\"appId\":\"cc.forestapp\"}_es_en",
+  "timestamp": "2026-01-29T21:15:47.212Z",
+  "data": {
+    "title": "Forest: Focus for Productivity",
+    "description": "Can't stop scrolling? Lack of self-control? Forest is the solution that has the cutest focus timer to help you stay focused and boost productivity!\n\n★ 2018 Google Play Editors’ Choice Top Productivity App★\n\n★ 2018 Google Play Best Self-improvement app in 9 countries, including, Canada, France, Japan, Korea and more!★\n\n★ Google Play 2018 Best Social Impact App Nomination★\n\n★ Google Play 2015-2016 Best App of the Year★\n\nPlant a seed in Forest when you need to put down your phone and stay focused to get your to do list done.\n\nAs you stay focused, this seed will gradually grow into a tree. However, if you cannot resist the temptation of using your phone and leave the app, your tree will wither.\n\nThe sense of achievement while seeing a flourishing forest with each tree representing your dedication motivates you to reduce procrastination, and helps you build a good habit of time management!\n\nMotivation and Gamification\n\n- Grow your very own forest with each tree representing your effort.\n- Earn rewards by staying focused and unlocking adorable trees!\n\nMultiple Focus Modes\n\n- Timer mode: Set your focus session and dive into your work or study flow, or apply Pomodoro technique.\n- Stopwatch mode: Start and stop at any time. Count-up timer works great as a habit tracker.\n\nPersonalized Experience\n\n- Planting Reminder: Remind yourself that it is time to keep your phone down!\n- Custom Phrases: Motivate yourself with your favorite quotes and inspiring words!\n\nForest Premium\n\n- Statistics: More insightful statistics of your focused time to tailor your focus habits.\n- Plant Together: Stay focused with your focus friend and family anytime and anywhere.\n- Plant Real Trees: Plant real trees on Earth to make the world greener!\n- Allow Lists: Create personalized Allow Lists for different situations. Non-allowed apps will be blocked.\n\nExclusive Events on Different Servers: Enjoy various special events customized for different servers/regions.\n\nDownload Forest for FREE now to focus on your goals in life and be a better self!\n\nSocial Media\n\nConnect with us on Instagram(@forest_app), Twitter(@forestapp_cc), and Facebook(@Forest). Stay tuned for updates and special events!\n\nWe also have a chrome extension. Find out more at [www.forestapp.cc](http://www.forestapp.cc/)!\n\n\nPermissions Explained: [https://www.forestapp.cc/permissions/en/](https://www.forestapp.cc/permissions/en/)\n\nOn phones running Android 14 and above, we use the AccessibilityService API to help manage the active apps you've included in your interruptive app list, enabling you to better limit your screen time.\n\nSound Design: Shi Kuang Lee",
+    "descriptionHTML": "Can&#39;t stop scrolling? Lack of self-control? Forest is the solution that has the cutest focus timer to help you stay focused and boost productivity!<br><br><b>★ 2018 Google Play Editors’ Choice Top Productivity App★</b><br><br><b>★ 2018 Google Play Best Self-improvement app in 9 countries, including, Canada, France, Japan, Korea and more!★</b><br><br><b>★ Google Play 2018 Best Social Impact App Nomination★</b><br><br><b>★ Google Play 2015-2016 Best App of the Year★</b><br><br>Plant a seed in Forest when you need to put down your phone and stay focused to get your to do list done.<br><br>As you stay focused, this seed will gradually grow into a tree. However, if you cannot resist the temptation of using your phone and leave the app, your tree will wither.<br><br>The sense of achievement while seeing a flourishing forest with each tree representing your dedication motivates you to reduce procrastination, and helps you build a good habit of time management!<br><br><b>Motivation and Gamification</b><br><br>- Grow your very own forest with each tree representing your effort.<br>- Earn rewards by staying focused and unlocking adorable trees!<br><br><b>Multiple Focus Modes</b><br><br>- Timer mode: Set your focus session and dive into your work or study flow, or apply Pomodoro technique.<br>- Stopwatch mode: Start and stop at any time. Count-up timer works great as a habit tracker.<br><br><b>Personalized Experience</b><br><br>- Planting Reminder: Remind yourself that it is time to keep your phone down!<br>- Custom Phrases: Motivate yourself with your favorite quotes and inspiring words!<br><br><b>Forest Premium</b><br><br>- <b>Statistics:</b> More insightful statistics of your focused time to tailor your focus habits.<br>- <b>Plant Together:</b> Stay focused with your focus friend and family anytime and anywhere.<br>- <b>Plant Real Trees:</b> Plant real trees on Earth to make the world greener!<br>- <b>Allow Lists:</b> Create personalized Allow Lists for different situations. Non-allowed apps will be blocked.<br><br><b>Exclusive Events on Different Servers:</b> Enjoy various special events customized for different servers/regions.<br><br><b>Download Forest for FREE now to focus on your goals in life and be a better self!</b><br><br><b>Social Media</b><br><br>Connect with us on Instagram(@forest_app), Twitter(@forestapp_cc), and Facebook(@Forest). Stay tuned for updates and special events!<br><br>We also have a chrome extension. Find out more at <a>[www.forestapp.cc](http://www.forestapp.cc/)</a>!<br><br><br>Permissions Explained: <a>[https://www.forestapp.cc/permissions/en/](https://www.forestapp.cc/permissions/en/)</a><br><br>On phones running Android 14 and above, we use the AccessibilityService API to help manage the active apps you&#39;ve included in your interruptive app list, enabling you to better limit your screen time.<br><br>Sound Design: Shi Kuang Lee",
+    "summary": "Stay focused on your goal or to dos and get motivated with Pomodoro timer",
+    "installs": "10,000,000+",
+    "minInstalls": 10000000,
+    "maxInstalls": 43868764,
+    "score": 4.2604165,
+    "scoreText": "4.3",
+    "ratings": 798309,
+    "reviews": 4981,
+    "histogram": {
+      "1": 69935,
+      "2": 26858,
+      "3": 44998,
+      "4": 139871,
+      "5": 516550
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.99 - €46.49 if billed through Play",
+    "androidVersion": "10",
+    "androidVersionText": "10",
+    "androidMaxVersion": "VARY",
+    "developer": "Seekrtech",
+    "developerId": "8375803120194789677",
+    "developerEmail": "support@seekrtech.com",
+    "developerWebsite": "https://forestapp.cc/",
+    "privacyPolicy": "https://www.forestapp.cc/privacy",
+    "developerInternalID": "8375803120194789677",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productivity",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/NWRVVF6zXvmcqspJwdFOKcQG6OlsNwpMOxED_DgB6B2BBDeWwAeWZKZxGhgqU0LQVJU",
+    "headerImage": "https://play-lh.googleusercontent.com/i5IqVz2T8CxrBgaB8HbsoeNIge3b1zFtFAmbNh003gwaEZ4mpT_6cuB2BTpUaKPHsACs",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/CF6LIjQtZVAWxbaZnOkK7iCS5dSSryo9i_VRnfMtj9hv3d-6AtYyS0Xvb6e6bG79g45IcfdRhnOR31hIUdL4uA",
+      "https://play-lh.googleusercontent.com/O8KTETjSKdmNYABlevjJTxtBbjaBpb713tADjvsSBWORYOvJ2G2iaUQhGi_j-Qjgki1IdtwuGRPiLQwJeNhlAGc",
+      "https://play-lh.googleusercontent.com/RuciKAbLRnfLguxHWil2OPGhRXU4B5YxwwVICo7qaoVEUrVDxZmUT2d8XJWMdd9pFZoNNyaQEdX91-CM0MI1Kw",
+      "https://play-lh.googleusercontent.com/Rpk6BZcoLv0VYyMsc1gKqskYgDCpWwyA5M2KBmAkNHG54azq8CYtknhNZIs6L_rLRGcSMBzNtDumNivOLppulw",
+      "https://play-lh.googleusercontent.com/gtCR0Q2qt1HxAh4Yd3LrnWpA0OBLd2PYooP4cSOTv7i36n9EBLRhZSSe5AMVGVL9Qsky-R5VMSpTBSJakvPxpQ",
+      "https://play-lh.googleusercontent.com/-Yl0O67ZGxqc6n8SnIIWXueP-YrmKHgysXXZPoENW7SBpwEnXRPWKUH600G_bJKQE5WOvTPssCYxq9LJ1RwZ1g",
+      "https://play-lh.googleusercontent.com/U1B2XpcjIIXMUIiLeRG7tPFC7hUFpZShWma-JhmYQ0lri0Hmap-NAFeqjCVk1vDgNrV4F0-jV2bgZp1s2Fl5PA",
+      "https://play-lh.googleusercontent.com/JfeNrOdJ3hs3SoLRU_LjGIWk2uzG_YDdJJqo7fQC12dB_FAfwOyn_8YkwTv2Dg4oJ0Hl7CCkXs_t8h-hZFNb_HY"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": true,
+    "released": "Aug 25, 2014",
+    "updated": 1769651621000,
+    "version": "5.6.0",
+    "recentChanges": "Enhanced App Block: Bye-bye social anxiety<br>Healing Sounds &amp; Breathing: Find your inner peace<br>Core Focus Timer: Maximize productivity<br>Looking for productivity or relaxation?<br>Get the best of both worlds in one app.<br>Make every day count with Forest",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "cc.forestapp",
+    "url": "https://play.google.com/store/apps/details?id=cc.forestapp&hl=en&gl=es"
+  }
+}

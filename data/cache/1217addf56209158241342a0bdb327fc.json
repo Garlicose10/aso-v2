@@ -1,0 +1,69 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.simka.ai.children.bed.stories.android\"}_us_en",
+  "timestamp": "2026-01-29T21:07:52.971Z",
+  "data": {
+    "title": "Bedtime Stories for Kids",
+    "description": "Transform Bedtime into a Magical Adventure for Your Kids\n\nDiscover the ultimate bedtime companion with our enchanting mobile app designed to calm kids and make every night special. Whether you're tucking them into bed or enjoying a quiet moment together, our app offers a library of personalized bedtime stories and soothing audiobooks to help your child drift off peacefully.\n\n🌙 150+ Captivating Bedtime Stories\nExplore a growing collection of over 150 carefully curated bedtime stories for kids. These tales are perfect for winding down at night, sparking imagination, and building a calming bedtime routine.\n\n✨ Personalized Books Where Your Child Is the Hero\nMake bedtime stories truly special by turning your child into the star. Add their name, favorite characters, or personal touches to create custom books that boost confidence and connection.\n\n🎨 Create Your Own Stories\nUse our magical story builder to craft personalized tales with unique themes, morals, and adventures. Tailor every story to your child’s mood or interests—perfect for keeping bedtime fresh and engaging.\n\n🎧 Listen with Calm: Audio Stories and Audiobooks\nEnjoy relaxing audio stories and audiobooks ideal for bedtime or quiet moments. Whether you're at home or on the go, these narrated tales provide a soothing alternative to screen time.\n\n🛏️ Build Calm Bedtime Routines\nHelp your child relax, focus, and feel safe before sleep. With calm narration, gentle pacing, and comforting themes, our app is designed to make bedtime smoother for both kids and parents.\n\nWhy Parents Love Our App:\nHuge library of bedtime stories and audiobooks\nDeeply personalized books and character options\nAudio mode for screen-free storytelling\nEasy to use—create and save stories in seconds\nSupports emotional growth and reading habits\nLet every night be a journey into wonder and calm. Download now and make every bedtime a cherished memory.",
+    "descriptionHTML": "Transform Bedtime into a Magical Adventure for Your Kids<br><br>Discover the ultimate bedtime companion with our enchanting mobile app designed to calm kids and make every night special. Whether you&#39;re tucking them into bed or enjoying a quiet moment together, our app offers a library of personalized bedtime stories and soothing audiobooks to help your child drift off peacefully.<br><br>🌙 150+ Captivating Bedtime Stories<br>Explore a growing collection of over 150 carefully curated bedtime stories for kids. These tales are perfect for winding down at night, sparking imagination, and building a calming bedtime routine.<br><br>✨ Personalized Books Where Your Child Is the Hero<br>Make bedtime stories truly special by turning your child into the star. Add their name, favorite characters, or personal touches to create custom books that boost confidence and connection.<br><br>🎨 Create Your Own Stories<br>Use our magical story builder to craft personalized tales with unique themes, morals, and adventures. Tailor every story to your child’s mood or interests—perfect for keeping bedtime fresh and engaging.<br><br>🎧 Listen with Calm: Audio Stories and Audiobooks<br>Enjoy relaxing audio stories and audiobooks ideal for bedtime or quiet moments. Whether you&#39;re at home or on the go, these narrated tales provide a soothing alternative to screen time.<br><br>🛏️ Build Calm Bedtime Routines<br>Help your child relax, focus, and feel safe before sleep. With calm narration, gentle pacing, and comforting themes, our app is designed to make bedtime smoother for both kids and parents.<br><br>Why Parents Love Our App:<br>Huge library of bedtime stories and audiobooks<br>Deeply personalized books and character options<br>Audio mode for screen-free storytelling<br>Easy to use—create and save stories in seconds<br>Supports emotional growth and reading habits<br>Let every night be a journey into wonder and calm. Download now and make every bedtime a cherished memory.",
+    "summary": "Personalized bedtime stories, books, and audio books for kids",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "maxInstalls": 1299221,
+    "score": 4.68,
+    "scoreText": "4.7",
+    "ratings": 11873,
+    "reviews": 15,
+    "histogram": {
+      "1": 419,
+      "2": 69,
+      "3": 209,
+      "4": 1047,
+      "5": 9917
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$2.99 - $29.99 per item",
+    "androidVersion": "9",
+    "androidVersionText": "9",
+    "androidMaxVersion": "VARY",
+    "developer": "Bedtime Stories Ltd",
+    "developerId": "Bedtime+Stories+Ltd",
+    "developerEmail": "den.litvinn@gmail.com",
+    "privacyPolicy": "https://simkaapp.wixsite.com/bedtime",
+    "developerInternalID": "Bedtime+Stories+Ltd",
+    "genre": "Parenting",
+    "genreId": "PARENTING",
+    "categories": [
+      {
+        "name": "Parenting",
+        "id": "PARENTING"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/LAVkb9BFHNTuiDOcf-hSHoZu9XRGUId0a0LbG0dKm6-8GHy6Hy1lMZmzWeCDax1_G38",
+    "headerImage": "https://play-lh.googleusercontent.com/8rC2aJ68G28O1qZ6xfOOjG7L5vA3tBt_MRXoFWI2E9rAp71-O4q_3YAidru9qykwtOCd",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/nPzzG84OkldOYCy8F6q6OsFc7Cd_8VBlguRRbXXBeef2HAF_c5qVDQ_eJFBmCPFeVKk",
+      "https://play-lh.googleusercontent.com/Nyt5zBKr5xcvHQlqiLaoRFydepnnKl3o5SgH5WbMBz1xAUJl8Mm2wnRZI1O96z_QRzw",
+      "https://play-lh.googleusercontent.com/XHKVEw4uKNqRAl5gDaXc6YxLaQw_Rvp0QXI7wXaTyZAxGuy7REonmKFXHU6_xqH_vw",
+      "https://play-lh.googleusercontent.com/oI2SG5LoxXtWlxkrN58JPXzQHd-5u1Zy2OKvUvOri9FI_QHsq9G4pc8FHmP2wvsK1PmU",
+      "https://play-lh.googleusercontent.com/lnf7ptpY9i_HH1sCB3GzimFanhpPEXOCUcjiABcsW_ZQYEnVK7nKztiYeNed3NrmVg",
+      "https://play-lh.googleusercontent.com/m4ITLHhIwA8fxlp5EXdzAu53AiTqnRwlyvRn_pIgowh01BQTkgDcwy7Ip7JqbOh2_Q"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": false,
+    "released": "Feb 4, 2023",
+    "updated": 1760307112000,
+    "version": "5.1.16",
+    "recentChanges": "Added new stories",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.simka.ai.children.bed.stories.android",
+    "url": "https://play.google.com/store/apps/details?id=com.simka.ai.children.bed.stories.android&hl=en&gl=us"
+  }
+}

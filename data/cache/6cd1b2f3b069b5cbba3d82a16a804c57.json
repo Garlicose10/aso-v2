@@ -1,0 +1,72 @@
+{
+  "key": "gplay_app_{\"appId\":\"ai.regainapp\"}_us_en",
+  "timestamp": "2026-01-29T21:15:49.791Z",
+  "data": {
+    "title": "Regain: Study Timer for Focus",
+    "description": "Are you spending hours mindlessly scrolling through YouTube Shorts, Instagram Reels, and other distracting apps? Most people lose up to 7 hours a day to screen time — often without even realizing it. Our phones are designed to hook us, making it harder to focus on what truly matters, whether it’s studying, working, or simply living in the moment.\n\nRegain helps you break free from phone addiction, reduce screen time, and stay focused. It’s more than just an app blocker — it’s your personal companion in building better digital habits. Whether you're a student preparing for exams or a professional seeking balance, Regain empowers you to take back control of your time.\n\n-----\n\n🚀 What’s New: Multiplayer Focus\n\nStay accountable with friends, classmates, or even strangers around the world. Join live focus rooms, study together in real time, and climb leaderboards to push your limits. Focus doesn’t have to be lonely anymore.\n\n-----\n\nHow Regain Helps You:\n- Focus Together: Multiplayer study rooms, global leaderboards, and group sessions keep you motivated.\n- Reduce screen time by 25% in just one week with mindful  app limits.\n- Stay focused with a powerful study timer that combines productivity techniques with calming music.\n- Kill phone addiction by blocking Reels, Shorts, and other social media distractions.\n- Control screen time through personalized app limits and detailed time tracking.\n- Build lasting habits with fun, gamified experiences and motivating streaks.\n\nRegain’s Key Features:\n\n⏳ Focus Timer with Music: Enhance your concentration using Regain’s study timer. Listen to focus-friendly music and block distracting apps while keeping essential tools at hand.\n\n👥 Multiplayer Focus Mode – Join group study sessions, compete in global leaderboards, and keep yourself accountable.\n\n🕑 App Limits: Set daily usage limits for social media and other apps. Get gentle reminders when you’re close to your limit and earn streaks for staying disciplined.\n\n▶️ Study YouTube Mode: Focus on learning with Regain’s YouTube Study mode. Block distracting channels and videos so you can watch only what adds value.\n\n🛑 Block Reels and Shorts: Say goodbye to endless scrolling. Regain lets you block Instagram Reels, YouTube Shorts, Snapchat, and more — so you can use your phone intentionally.\n\n📊 Screen Time Insights: Understand your phone habits with detailed screen time reports. See how much time you spend productively vs. on distractions and adjust accordingly.\n\n🎯 Block Scheduling: Set automatic block times for apps — during study hours, bedtime, or work sessions — to keep yourself on track without relying on willpower.\n\n🌟 Meet Rega, Your Screen-Time Buddy: Rega is your motivational guide, helping you reduce screen time with friendly nudges and celebrating your wins.\n\nTake Control Today\n\nRegain isn’t just about cutting screen time — it’s about reclaiming your focus, boosting productivity, and building a balanced relationship with technology. Whether you want to kill phone addiction, study better, or simply control screen time, Regain is here for you.\n\nDownload Regain now. Save time & Stay focused\n\n---\n\nAccessibility Service API permission:\nThis app uses the Accessibility Service API to detect and intervene user-selected target apps features like YouTube Shorts Blocking. Your accessibility data never leaves your device.",
+    "descriptionHTML": "Are you spending hours mindlessly scrolling through YouTube Shorts, Instagram Reels, and other distracting apps? Most people lose up to 7 hours a day to screen time — often without even realizing it. Our phones are designed to hook us, making it harder to focus on what truly matters, whether it’s studying, working, or simply living in the moment.<br><br>Regain helps you break free from phone addiction, reduce screen time, and stay focused. It’s more than just an app blocker — it’s your personal companion in building better digital habits. Whether you&#39;re a student preparing for exams or a professional seeking balance, Regain empowers you to take back control of your time.<br><br>-----<br><br>🚀 What’s New: Multiplayer Focus<br><br>Stay accountable with friends, classmates, or even strangers around the world. Join live focus rooms, study together in real time, and climb leaderboards to push your limits. Focus doesn’t have to be lonely anymore.<br><br>-----<br><br>How Regain Helps You:<br>- Focus Together: Multiplayer study rooms, global leaderboards, and group sessions keep you motivated.<br>- Reduce screen time by 25% in just one week with mindful  app limits.<br>- Stay focused with a powerful study timer that combines productivity techniques with calming music.<br>- Kill phone addiction by blocking Reels, Shorts, and other social media distractions.<br>- Control screen time through personalized app limits and detailed time tracking.<br>- Build lasting habits with fun, gamified experiences and motivating streaks.<br><br>Regain’s Key Features:<br><br>⏳ Focus Timer with Music: Enhance your concentration using Regain’s study timer. Listen to focus-friendly music and block distracting apps while keeping essential tools at hand.<br><br>👥 Multiplayer Focus Mode – Join group study sessions, compete in global leaderboards, and keep yourself accountable.<br><br>🕑 App Limits: Set daily usage limits for social media and other apps. Get gentle reminders when you’re close to your limit and earn streaks for staying disciplined.<br><br>▶️ Study YouTube Mode: Focus on learning with Regain’s YouTube Study mode. Block distracting channels and videos so you can watch only what adds value.<br><br>🛑 Block Reels and Shorts: Say goodbye to endless scrolling. Regain lets you block Instagram Reels, YouTube Shorts, Snapchat, and more — so you can use your phone intentionally.<br><br>📊 Screen Time Insights: Understand your phone habits with detailed screen time reports. See how much time you spend productively vs. on distractions and adjust accordingly.<br><br>🎯 Block Scheduling: Set automatic block times for apps — during study hours, bedtime, or work sessions — to keep yourself on track without relying on willpower.<br><br>🌟 Meet Rega, Your Screen-Time Buddy: Rega is your motivational guide, helping you reduce screen time with friendly nudges and celebrating your wins.<br><br>Take Control Today<br><br>Regain isn’t just about cutting screen time — it’s about reclaiming your focus, boosting productivity, and building a balanced relationship with technology. Whether you want to kill phone addiction, study better, or simply control screen time, Regain is here for you.<br><br>Download Regain now. Save time &amp; Stay focused<br><br>---<br><br>Accessibility Service API permission:<br>This app uses the Accessibility Service API to detect and intervene user-selected target apps features like YouTube Shorts Blocking. Your accessibility data never leaves your device.",
+    "summary": "Kill phone addiction and stay focused with a study timer together with friends!",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "maxInstalls": 1835585,
+    "score": 4.55,
+    "scoreText": "4.6",
+    "ratings": 81646,
+    "reviews": 143,
+    "histogram": {
+      "1": 669,
+      "2": 1561,
+      "3": 7138,
+      "4": 13830,
+      "5": 57776
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$4.99 - $99.99 per item",
+    "androidVersion": "7.0",
+    "androidVersionText": "7.0",
+    "androidMaxVersion": "VARY",
+    "developer": "EpowerX Labs",
+    "developerId": "EpowerX+Labs",
+    "developerEmail": "help@regainapp.ai",
+    "developerWebsite": "https://regainapp.ai/",
+    "privacyPolicy": "https://regainapp.ai/#privacy-policy",
+    "developerInternalID": "EpowerX+Labs",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productivity",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/cJJ9eKX42-Wkqq9eG6UVXCDeMMIdbj-GaAMJLhcN-kiKgXrue23X83El5rzvMtkQt_1aN1TMmyOLqVy7cwgyEA",
+    "headerImage": "https://play-lh.googleusercontent.com/Us0134BpQCkBmKJXHF2BoPMBE5DIff45cf1_F75ND5DmvogrdrjWesiqzVsZfR0v8aBrTU2Y4hN8bA-FFV1GAQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Gg17LVjVaQTPyyGkjH2AOe4wy06ZPDmT67Q0f42IZcpz44d4HwaFFW_2fommzoal3jSWvcy_HebWbG9vknwB3-E",
+      "https://play-lh.googleusercontent.com/qLpczdKUfiEHiMwPzSEhTLzr9w7aGVBcV8LlhBJ4rs10bpl-OMSXK9uXri29E1_rYziyg2mSoQ2MS2I6iEnNSQ",
+      "https://play-lh.googleusercontent.com/1mzvtwRA1fu7tuDY4b972wEZz9qMXri1kAIpTJRFy5XyE-65_4FDtTKaWkbn3dnrsI9UvGscQxD_0ao0j4Nq",
+      "https://play-lh.googleusercontent.com/GmDM4WvuSIdKtWRvmfGq7-LUF5mQUdQoGvkBzrn034N2KxygPRI67-f8Z2h-tHk-RTT2XNQvh0rdrrefMgwFmA",
+      "https://play-lh.googleusercontent.com/75sXgqN-Roputs5VUF6T9xz4bSF8o3XoD9wv_RyRfaBgQzjjD6o5G_kxiRq_p7P8WkVVjDqzVUrMDzoh0pIHgv0",
+      "https://play-lh.googleusercontent.com/yg9_Oi5G0_xAyvrce4pjakxIhi1gu8pD0PZgBIr1rgqsUITIvQcWNzLWlnuUyRZ3jWV49Mw0QzFTZxqpajgz1Q",
+      "https://play-lh.googleusercontent.com/ZpEiYUtNZlIUBCD0kz8xe3j3mH07IPol00P2TyzzHXiE6gcBwzblYe2pBsX2tdt29_O30Nn86dqsTThS27pcAw",
+      "https://play-lh.googleusercontent.com/FCantsc-Jmaddgh49FsWriB6yTlD3aH1TNJJYf7VwHvxZEFSePOQEBjppr97gxT7n9iGIkM4WBGq-uJke9yM"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": false,
+    "released": "Nov 27, 2023",
+    "updated": 1769676807000,
+    "version": "48.1.1428",
+    "recentChanges": "We’ve leveled up our Planner feature to help you own your schedule.<br>Calendar Mode: Organize your focus schedule with a new Calendar Mode, featuring both Weekly and Daily views to see your tasks at a glance.One-Time Focus Schedules: You can now schedule one-time sessions for specific tasks, alongside your regular repeating blocks.Bug Fixes &amp; other improvements",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "ai.regainapp",
+    "url": "https://play.google.com/store/apps/details?id=ai.regainapp&hl=en&gl=us"
+  }
+}

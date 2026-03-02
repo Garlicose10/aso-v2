@@ -1,0 +1,73 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.instagram.android\"}_es_en",
+  "timestamp": "2026-01-29T14:22:56.055Z",
+  "data": {
+    "title": "Instagram",
+    "description": "Little moments lead to big friendships. Share yours on Instagram. \n—From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into on Insta®.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chats and share unfiltered moments with your Close Friends.\n- Share memories from recent events or trips in Feed.\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Customize your posts with exclusive templates, music, stickers and filters.\n\nDive into your interests.\n- Watch videos from your favorite Creators and discover new content that’s personalized to your interests.\n- Get inspired by photos and videos from new accounts in Explore.\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\n\nSome Instagram features may not be available in your country or region.\n\nTerms and Policies - https://help.instagram.com/581066165581870\n\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health\n\nLearn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+    "descriptionHTML": "Little moments lead to big friendships. Share yours on Instagram. <br>—From Meta<br><br>Connect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what&#39;s going on, from your daily moments to life&#39;s highlights.<br><br>Share what you’re up to and into on Insta®.<br>- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.<br>- Start group chats and share unfiltered moments with your Close Friends.<br>- Share memories from recent events or trips in Feed.<br>- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.<br>- Customize your posts with exclusive templates, music, stickers and filters.<br><br>Dive into your interests.<br>- Watch videos from your favorite Creators and discover new content that’s personalized to your interests.<br>- Get inspired by photos and videos from new accounts in Explore.<br>- Discover brands and small businesses, and shop products that are relevant to your personal style.<br><br>Some Instagram features may not be available in your country or region.<br><br>Terms and Policies - https://help.instagram.com/581066165581870<br><br>Consumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health<br><br>Learn how we&#39;re working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",
+    "summary": "Create &amp; share photos, stories, &amp; reels with friends you love",
+    "installs": "5,000,000,000+",
+    "minInstalls": 5000000000,
+    "maxInstalls": 6878333942,
+    "score": 4.1108127,
+    "scoreText": "4.1",
+    "ratings": 166299580,
+    "reviews": 797639,
+    "histogram": {
+      "1": 23887226,
+      "2": 5242368,
+      "3": 8341374,
+      "4": 19912314,
+      "5": 108916105
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.09 - €3,299.99 if billed through Play",
+    "androidVersion": "VARY",
+    "androidVersionText": "Varies with device",
+    "androidMaxVersion": "VARY",
+    "developer": "Instagram",
+    "developerId": "Instagram",
+    "developerEmail": "instagram-android@meta.com",
+    "developerWebsite": "http://help.instagram.com/",
+    "privacyPolicy": "http://instagram.com/legal/privacy/",
+    "developerInternalID": "Instagram",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "categories": [
+      {
+        "name": "Social",
+        "id": "SOCIAL"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
+    "headerImage": "https://play-lh.googleusercontent.com/CgUPurtUp8SB709wsQcKLMv6JdIh1em0ka_58V69AorznLv42TV39etS2rt28wv9Rz8",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/n74uQe2LDP6pqPQvDsgN8pabNNc8NdShoRzbA7gr7Hd9Y9clPkZ5Xg2L1osnPqTJC9IHHYD867RC3eDORxDd",
+      "https://play-lh.googleusercontent.com/_K0t5bG4GM30T6QF6onfa4Xbp1fjgXuB1EQBTaCY_CS2_agQKvxB2SBQxEPjnP6-AY9bNrHAjxSGXCwFNO9RMQ",
+      "https://play-lh.googleusercontent.com/Ovro78HjEglmrw0VggPyZnjoVSaH_odOdTnDh52LyCH6OtB3gQyq9qT86N0p7CuWg22YVjP-siq0x5PlqxVQWX0",
+      "https://play-lh.googleusercontent.com/6gTZ3MuWAe10qEjX4JmFVZdyAqxYcigwvgixrx8eI8Llbmkd9UzJtkIsLSKkLBM5QFLNp6a4eXknqMTt0uks7A",
+      "https://play-lh.googleusercontent.com/KBU8I0Z76oAnpQ9K2zNGs6-mi3O3O_m9c_V-BlRF90lh2jjll4uE8nQ4-zIXgM4rPbmr4pPfImEIC6Ze_CNT_Go",
+      "https://play-lh.googleusercontent.com/AGsm7HoW9NbRwzSGHqCGVx-Hz9v2ps2nBAz0uKnxg95xfuO82ESNCN50y1-M2oxhR09Zq74naiWa3ECd809qNg",
+      "https://play-lh.googleusercontent.com/1jevwdYf5vTIoTInKEV3XF0bQw_tqF4-umAV5CYO-CZ9CPN0tc5CAdUkMt-yCPPtqFKZK12AyrbR3SsXrJT9kZM"
+    ],
+    "video": "https://play.google.com/video/lava/web/player/yt:movie:7wbnqYRz6jE?autoplay=1&embed=play",
+    "videoImage": "https://play-lh.googleusercontent.com/CgUPurtUp8SB709wsQcKLMv6JdIh1em0ka_58V69AorznLv42TV39etS2rt28wv9Rz8",
+    "contentRating": "Parental guidance",
+    "contentRatingDescription": "Parental Guidance Recommended",
+    "adSupported": true,
+    "released": "Apr 3, 2012",
+    "updated": 1769579100000,
+    "version": "VARY",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.instagram.android",
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=es"
+  }
+}

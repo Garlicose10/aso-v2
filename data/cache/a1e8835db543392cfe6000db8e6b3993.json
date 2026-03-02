@@ -1,0 +1,70 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.clareai.wati\"}_us_en",
+  "timestamp": "2026-01-29T14:22:55.711Z",
+  "data": {
+    "title": "WATI - Team Inbox for WhatsApp",
+    "description": "To sign up, click here.\n\nWhatsApp Business marketing & engagement solution for SMBs & enterprises!\n \nScale your business on WhatsApp using WATI. \n \nWATI mobile app lets you access your WATI account on mobile devices. Enable customer support & launch WhatsApp marketing campaigns on the go. \n \nRequirements\n- WATI account to access WhatsApp Business API features.\n \n \nHow to get started with WATI App\n \nInstall the WATI mobile app & enter your login credentials along with the company dashboard domain provided by WATI.\n \nFEATURES\n \n1. Shared Team Inbox \nGet multi-login support for WhatsApp Business with complete team inbox functionalities.\n \n2. WhatsApp Broadcast\nManage and monitor WhatsApp Business broadcasts directly from the WATI App.\n \n3. WhatsApp Marketing\nMonitor the performance of personalized WhatsApp broadcast campaigns sent to up to 100k recipients in a single click.\n \n4. Quick Reply\nQuickly create & organize quick replies to boost the efficiency of the chat agents.\n \n5. Contact Management\nManage your WhatsApp contacts with filters, attributes & tags.\n \nLeverage the power of engagement on WhatsApp & scale your business.\n \n \nSetup your WhatsApp Business account with WATI. \nVisit our website now - https://www.wati.io/\n \nWATI is a Product of Clare.AI Limited and we're official business partners of WhatsApp Business APIs.",
+    "descriptionHTML": "To sign up, <a href=\"https://www.google.com/url?q=https%3A%2F%2Fapp.wati.io%2Fregister&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0zE39eD861i2Tv-zb4JQcL\" target=\"_blank\">click here</a>.<br><br>WhatsApp Business marketing &amp; engagement solution for SMBs &amp; enterprises!<br> <br>Scale your business on WhatsApp using WATI. <br> <br>WATI mobile app lets you access your WATI account on mobile devices. Enable customer support &amp; launch WhatsApp marketing campaigns on the go. <br> <br><b>Requirements</b><br>- WATI account to access WhatsApp Business API features.<br> <br> <br><b>How to get started with WATI App</b><br> <br>Install the WATI mobile app &amp; enter your login credentials along with the company dashboard domain provided by WATI.<br> <br><b>FEATURES</b><br> <br>1. Shared Team Inbox <br>Get multi-login support for WhatsApp Business with complete team inbox functionalities.<br> <br>2. WhatsApp Broadcast<br>Manage and monitor WhatsApp Business broadcasts directly from the WATI App.<br> <br>3. WhatsApp Marketing<br>Monitor the performance of personalized WhatsApp broadcast campaigns sent to up to 100k recipients in a single click.<br> <br>4. Quick Reply<br>Quickly create &amp; organize quick replies to boost the efficiency of the chat agents.<br> <br>5. Contact Management<br>Manage your WhatsApp contacts with filters, attributes &amp; tags.<br> <br>Leverage the power of engagement on WhatsApp &amp; scale your business.<br> <br> <br>Setup your WhatsApp Business account with WATI. <br>Visit our website now - <a>https://www.wati.io/</a><br> <br><b>WATI is a Product of Clare.AI Limited and we&#39;re official business partners of WhatsApp Business APIs.</b>",
+    "summary": "Provide delightful customer support with this multi-agent chat tool for WA",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "maxInstalls": 331780,
+    "score": 3.8421052,
+    "scoreText": "3.8",
+    "ratings": 794,
+    "reviews": 4,
+    "histogram": {
+      "1": 167,
+      "2": 41,
+      "3": 0,
+      "4": 125,
+      "5": 459
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": false,
+    "androidVersion": "7.0",
+    "androidVersionText": "7.0",
+    "androidMaxVersion": "VARY",
+    "developer": "Clare.AI",
+    "developerId": "Clare.AI",
+    "developerEmail": "support@clare.ai",
+    "developerWebsite": "https://www.wati.io/",
+    "privacyPolicy": "https://www.wati.io/privacy-policy",
+    "developerInternalID": "Clare.AI",
+    "genre": "Business",
+    "genreId": "BUSINESS",
+    "categories": [
+      {
+        "name": "Business",
+        "id": "BUSINESS"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/GEtD7sOYtddPdYQ9F0mim5CA7SfluI5TXexUh954FshRr5zNONaD3D1Oj7eLDtbBzXUb",
+    "headerImage": "https://play-lh.googleusercontent.com/Sib565r7dIr80YQmKtwElnUywwF9OyirLPVpRVryk7S_vMhsX6cMUT2zdaKhaG4tm_Q",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/37e2s7evop1Sx1YhTetaZwUkJyLyFc_lkEcHnVWolU-cJwm843ID8r3yIqiikhdDSg",
+      "https://play-lh.googleusercontent.com/UfLH95jvvZVBZOgbNKPswBMUQbn5y500xHRpsJX6yn9cwvkHqTdIb33DDmvJbxh-jowP",
+      "https://play-lh.googleusercontent.com/VvaxGBrhkjz4KLCloP3iioPr9IPO2AUT7eZ4QJ2g-VqgnQAMSsohsreeHzb6hrqQB7ly",
+      "https://play-lh.googleusercontent.com/GskKUOQmP0DhbTpLyP_Ea88N1z3wwOQa2ZfPtGAfo8gZyqr_FO1mWzp5IFdgkUq_t6Qq",
+      "https://play-lh.googleusercontent.com/wWqz3JrwfJlo9A2DzoH512f0wo5hDUKLUXr1R_mM164UrYNE-uAMDiUmU-rkT6Jg51c",
+      "https://play-lh.googleusercontent.com/2srtH2afUryO8ViQNdOY1IGWKd0PLfGsPjWrs7XXxv7f16HoNtkS2WDvd8F_eIxbRIM",
+      "https://play-lh.googleusercontent.com/VvRtRA9GAD105MwBQwQFthcDdD1MGr4WF1IU3Kxwtx9CY5ErM37X52qiJPCB4xOYhTY"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": false,
+    "released": "Apr 19, 2020",
+    "updated": 1769411342000,
+    "version": "3.32.2",
+    "recentChanges": "- Performance improvements &amp; bug fixes.",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.clareai.wati",
+    "url": "https://play.google.com/store/apps/details?id=com.clareai.wati&hl=en&gl=us"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.facebook.orca\"}_es_en",
+  "timestamp": "2026-01-29T14:22:51.077Z",
+  "data": {
+    "title": "Messenger",
+    "description": "Messenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE \nFind and connect with your friends and family on Facebook and Messenger, no phone number needed.\n\nGET INSTANT ANSWERS FROM YOUR AI ASSISTANT*\nMeta AI is your assistant that can answer any questions, give you advice, help with homework, and more.\n\nSEND YOUR PHOTOS IN HIGH DEFINITION\nSend and receive clearer, crisper picture of your favorite moments with Messenger.\n\nCREATE SHARED ALBUMS\nFrom a recent summer vacation to your grandma’s 80th birthday, create albums of photos and videos to share, organize and reminisce over important moments in your group chats.\n\nEASILY ADD NEW CONNECTIONS WITH QR CODES\nConnect with people you meet in real life by scanning their Messenger QR code or sharing yours via a link.\n\nSHARE LARGE FILES DIRECTLY IN CHAT\nWhether it’s a Word, PDF, or Excel doc, you can send large files up to 100MB right inside of Messenger.\n\nEDIT AND UNSEND MESSAGES \nHit send too soon? You can edit the message up to 15 minutes after sending\n\nDISAPPEARING MESSAGES\nSome things aren’t meant to last forever. Choose how long your end-to-end encrypted chats stick around after they’ve been read.\n\nCOME TOGETHER WITH YOUR COMMUNITIES\nMeaningfully connect with people like you from your school, neighborhood, and interest groups.\n\nGET IN YOUR FAVORITE CREATORS’ INNER CIRCLE\nStay in the know with creators by joining their broadcast channels for authentic and casual content.\n\nUNLEASH YOUR IMAGINATION W/ META AI*\nTap into your go-to creative partner to create, edit, animate images and more.\n\nCAPTURE EVERYDAY MOMENTS ON STORIES\nHighlight moments of your day using photos and videos that disappear after 24 hours in Stories.\n\nDROP A NOTE WITH YOUR THOUGHTS\nStay connected with your friends by sharing quick updates that disappear after 24 hours.\n\nBRING YOUR VIBE TO YOUR CHATS\nSometimes words just don’t cut it. Tap into more ways to express yourself with animated stickers, GIFs, reactions and more.\n\nSET THE MOOD OF YOUR CHAT WITH THEMES\nCustomize your chat with a large and constantly evolving list of themes featuring popular artists, holidays, and more. \n\n*Meta AI is available in select languages and countries only, with more coming soon.",
+    "descriptionHTML": "Messenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.<br><br>CHAT AND CALL ANYONE, ANYWHERE <br>Find and connect with your friends and family on Facebook and Messenger, no phone number needed.<br><br>GET INSTANT ANSWERS FROM YOUR AI ASSISTANT*<br>Meta AI is your assistant that can answer any questions, give you advice, help with homework, and more.<br><br>SEND YOUR PHOTOS IN HIGH DEFINITION<br>Send and receive clearer, crisper picture of your favorite moments with Messenger.<br><br>CREATE SHARED ALBUMS<br>From a recent summer vacation to your grandma’s 80th birthday, create albums of photos and videos to share, organize and reminisce over important moments in your group chats.<br><br>EASILY ADD NEW CONNECTIONS WITH QR CODES<br>Connect with people you meet in real life by scanning their Messenger QR code or sharing yours via a link.<br><br>SHARE LARGE FILES DIRECTLY IN CHAT<br>Whether it’s a Word, PDF, or Excel doc, you can send large files up to 100MB right inside of Messenger.<br><br>EDIT AND UNSEND MESSAGES <br>Hit send too soon? You can edit the message up to 15 minutes after sending<br><br>DISAPPEARING MESSAGES<br>Some things aren’t meant to last forever. Choose how long your end-to-end encrypted chats stick around after they’ve been read.<br><br>COME TOGETHER WITH YOUR COMMUNITIES<br>Meaningfully connect with people like you from your school, neighborhood, and interest groups.<br><br>GET IN YOUR FAVORITE CREATORS’ INNER CIRCLE<br>Stay in the know with creators by joining their broadcast channels for authentic and casual content.<br><br>UNLEASH YOUR IMAGINATION W/ META AI*<br>Tap into your go-to creative partner to create, edit, animate images and more.<br><br>CAPTURE EVERYDAY MOMENTS ON STORIES<br>Highlight moments of your day using photos and videos that disappear after 24 hours in Stories.<br><br>DROP A NOTE WITH YOUR THOUGHTS<br>Stay connected with your friends by sharing quick updates that disappear after 24 hours.<br><br>BRING YOUR VIBE TO YOUR CHATS<br>Sometimes words just don’t cut it. Tap into more ways to express yourself with animated stickers, GIFs, reactions and more.<br><br>SET THE MOOD OF YOUR CHAT WITH THEMES<br>Customize your chat with a large and constantly evolving list of themes featuring popular artists, holidays, and more. <br><br>*Meta AI is available in select languages and countries only, with more coming soon.",
+    "summary": "Useful. Social. Expressive.",
+    "installs": "5,000,000,000+",
+    "minInstalls": 5000000000,
+    "maxInstalls": 7398647728,
+    "score": 4.6782756,
+    "scoreText": "4.7",
+    "ratings": 109942167,
+    "reviews": 211379,
+    "histogram": {
+      "1": 2289321,
+      "2": 1106394,
+      "3": 4459928,
+      "4": 13974060,
+      "5": 88112160
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "€0.09 - €349.99 if billed through Play",
+    "androidVersion": "VARY",
+    "androidVersionText": "Varies with device",
+    "androidMaxVersion": "VARY",
+    "developer": "Meta Platforms, Inc.",
+    "developerId": "Meta+Platforms,+Inc.",
+    "developerEmail": "android-support@fb.com",
+    "developerWebsite": "https://www.facebook.com/games/fbmessenger_android/",
+    "privacyPolicy": "https://m.facebook.com/policy.php",
+    "developerInternalID": "Meta+Platforms,+Inc.",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "categories": [
+      {
+        "name": "Communication",
+        "id": "COMMUNICATION"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/JfQNUnohpuq5IP65WN9C109VjLjDEj2tZYlPtComLznQfGeeoesubOaHGBcpZdXKuHU",
+    "headerImage": "https://play-lh.googleusercontent.com/kBtGTjKuAMwshWKj9USE93mA-iaERBKoLY1i2I0M-5adZwPlx8izXR8tgK3uc4GTdt6O",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ORFivrYdPk-5qowWZnVwcSHdjyz4CWYV3lM-c-RTCQPGI_NL_P8UJZtVN0NcnXJeoEE3",
+      "https://play-lh.googleusercontent.com/XWXvwBDIvbs78TUkulUdoHoaZx7ORhV_QzKFUkF56jKpS44jn9Ry9l0quuuiDNElDPWF",
+      "https://play-lh.googleusercontent.com/pU4ncWOsMquPp57u0FE0y5Spa7jo_1XJ4qipypltYtiLrlEMX1bYtkYnPVXE3crYyiwY",
+      "https://play-lh.googleusercontent.com/R-NGUv5RJLBcspth5y50YcDPgj5r4CTsSGkB-WOqtY-z-pNHJyIw2y5FCMjeRl-shGE",
+      "https://play-lh.googleusercontent.com/GRJ06ZwgoGGYMU2tNwXO6PGYxJKqKaUc3mqIjyUb38oSOMpJxsAdTAD-vwsFsh4FZW8",
+      "https://play-lh.googleusercontent.com/caboox1pb1eDpnhz4UwwLukckAsto5kZXjr3MO8Z_Jb5hA2FR7QCVfCcV0W9QYPj3Cc",
+      "https://play-lh.googleusercontent.com/C913xxr6Gv7qMA03ZuUp53b6XWhn5QjdvA3_nwO1a5BNxfqoikKzH62FBLpudESyQw",
+      "https://play-lh.googleusercontent.com/00b3U4wYzWK3dK-LvOJUifrey48ykzJ_pGwIZCJtjGIiCG-XtQjQj7EMn1O9K64JEQ"
+    ],
+    "contentRating": "Parental guidance",
+    "contentRatingDescription": "Parental Guidance Recommended",
+    "adSupported": false,
+    "released": "Jan 30, 2014",
+    "updated": 1768852997000,
+    "version": "VARY",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.facebook.orca",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=es"
+  }
+}

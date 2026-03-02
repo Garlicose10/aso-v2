@@ -1,0 +1,72 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.IVR.cuentoscortosparaninos\"}_us_en",
+  "timestamp": "2026-01-29T21:07:49.499Z",
+  "data": {
+    "title": "Cuentos Cortos para Niños",
+    "description": "Are you looking for an application of children's stories to read to your children?\nLook no further, Short Stories for Kids is the best app for that!\n\nThe best and most complete collection of children's short stories for you to read to your children from all over Google Play directly in the comfort of your Android!\n\nApplication Features\n- The most complete selection of short stories for children, with classic and popular stories.\n- Smooth application interface without colors that hurt your eyes.\n- Simple and intuitive interface that allows children to be manipulated by them.\n- Large library of children's short stories always growing.\n- Night mode to read at night.\n- Included trivia game \"Guess the story\".\n- Completely free application.\n- Includes popular children's short stories.\n- Classic short stories for children and more.\n\nThe application has a smooth and simple design that makes it easy to use and makes reading comfortable, even avoid at night so as not to tire your eyes.\n\nShort Stories for Children is the best story application for children in which the most popular short stories of today are compiled, giving you a fresh and healthy reading at any time of the day.",
+    "descriptionHTML": "Are you looking for an application of children&#39;s stories to read to your children?<br>Look no further, Short Stories for Kids is the best app for that!<br><br>The best and most complete collection of children&#39;s short stories for you to read to your children from all over Google Play directly in the comfort of your Android!<br><br><b>Application Features</b><br>- The most complete selection of short stories for children, with classic and popular stories.<br>- Smooth application interface without colors that hurt your eyes.<br>- Simple and intuitive interface that allows children to be manipulated by them.<br>- Large library of children&#39;s short stories always growing.<br>- Night mode to read at night.<br>- Included trivia game &quot;Guess the story&quot;.<br>- Completely free application.<br>- Includes popular children&#39;s short stories.<br>- Classic short stories for children and more.<br><br>The application has a smooth and simple design that makes it easy to use and makes reading comfortable, even avoid at night so as not to tire your eyes.<br><br>Short Stories for Children is the best story application for children in which the most popular short stories of today are compiled, giving you a fresh and healthy reading at any time of the day.",
+    "summary": "Collection of more than 100 classic stories and short stories for children",
+    "installs": "1,000,000+",
+    "minInstalls": 1000000,
+    "maxInstalls": 1947010,
+    "score": 4.76,
+    "scoreText": "4.8",
+    "ratings": 5284,
+    "reviews": 78,
+    "histogram": {
+      "1": 89,
+      "2": 0,
+      "3": 156,
+      "4": 514,
+      "5": 4477
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$1.50 per item",
+    "androidVersion": "7.0",
+    "androidVersionText": "7.0",
+    "androidMaxVersion": "VARY",
+    "developer": "IVR",
+    "developerId": "8945938770084552732",
+    "developerEmail": "ivr.softdeveloper@gmail.com",
+    "developerWebsite": "https://ivr-softdeveloper.com/",
+    "privacyPolicy": "https://ivr-softdeveloper.com/apps/cuentoscortosparaninos.html",
+    "developerInternalID": "8945938770084552732",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "id": "ENTERTAINMENT"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/gHtvidQjLuxbsQphyePFrrNOxBfcRThk6IEKdIuL2FuOBJc6A4zvC2T96Q7U0_nT2sbz",
+    "headerImage": "https://play-lh.googleusercontent.com/Bbenx9AGoVP9v4TL3flYTffbFJP917lMxKxZMcmUnAPDtKB-O3Qti7G0geyMK1UJfIw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/CzFdfh77UzK8XJVzOzhmj0rrJn9be0wftDM_siUQyyTx98CV4aZ5BgT3kCFG97lDGXqlEx9cELj_lDssddgbjg",
+      "https://play-lh.googleusercontent.com/9R-6y0pAxyvcDus6SYTQhSuIopKBbcMzkpsa7hcKslpfmM7qXjemNqikpov25CVGZx4bSHAtRFdRyu-b-MY1-3E",
+      "https://play-lh.googleusercontent.com/zlGwp-Xn7ow75_VtsAlTpbcaDf9iYjsw96unVJRpgP-Gl6YfqX0wezhFgCc4nuhYeI55NeHDsPgiheUMtXO7qQ",
+      "https://play-lh.googleusercontent.com/gsXdkoMZPtJaNDW-boChdiwl1bqeRFmFU3QzCUCi-KMqQWh5PMPT7qtqa0Ws_YcWRlcDIU6pzwPSo28plOxsZw",
+      "https://play-lh.googleusercontent.com/G8XhPeNLnB5pOHs_08nwigH8gdtI7VC_NDLEQzMsqrti9IS825SI_tOkfqGFc_LOllcTWVSRcoed3Jr8bYOo1w",
+      "https://play-lh.googleusercontent.com/84DGh0ughFMaV4pkujFMfDeWcqtgZZOI-duO3NgjlNJPyqo9cip-_MMKMiZfa9xWorsuBwx8QpibT--OGKMhWg",
+      "https://play-lh.googleusercontent.com/buVIHP72pWJnbS3yTSU-LO85INOqdYyy9ZAqmf47zFnXNUgJFeUEZhYMfLNFV1kC9K2moqj44HjyQXC5P-rLPw",
+      "https://play-lh.googleusercontent.com/JYRqTnW4acVZIYaxQTAAGiCdgLNHIbPW4emlmjB6Nw9ALe3zgaWL94T4xP3tv5P-_JZznY4gKODdw3_GgePOkw"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": true,
+    "released": "Mar 19, 2018",
+    "updated": 1767768238000,
+    "version": "2.0.5",
+    "recentChanges": "V2.0.5<br>- ¡Regreso a clases! Disfruta de nuestros cuentos para esta temporada.<br>- Corrección de errores.",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.IVR.cuentoscortosparaninos",
+    "url": "https://play.google.com/store/apps/details?id=com.IVR.cuentoscortosparaninos&hl=en&gl=us"
+  }
+}

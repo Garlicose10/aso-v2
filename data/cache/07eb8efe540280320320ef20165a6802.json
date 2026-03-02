@@ -1,0 +1,72 @@
+{
+  "key": "gplay_app_{\"appId\":\"co.zeitic.focusmeter\"}_us_en",
+  "timestamp": "2026-01-29T21:15:48.773Z",
+  "data": {
+    "title": "Focusmeter: Pomodoro Timer",
+    "description": "Focus is important for productivity, but rest is equally important too! Focusmeter helps you to maximize your productivity by balancing focus and rest.\n\nHOW IT WORKS:\n1️⃣ Setup your routine: customize the length of your Focus and Rest timers.\n2️⃣ Start your first Focus timer. 👨‍💻\n3️⃣ After your timer is completed, it's time for a break. ☕\n4️⃣ Start the next Focus timer and stay productive! 👨‍💻\n\nFEATURES\n⏲ CUSTOMIZE your own timers. Pomodoro or 52/17, easily customize what works for you!\n✨ INSIGHTS from your past activities in a month, week or day. See how your routine has been working for you.\n🔔 CHOOSE your own Focus and Rest alerts when the timer is completed or about to be completed. \n⏱️ STOPWATCH or normal timers: Both counting up and counting down timers supported.\n🏷️ TAG Focus and Rest sessions and keep track of distractions.\n📈 STATISTICS to get insights for individual tags over time.\n📝 EDIT your timeline/activities. Never forget to track your time. \n✍️ Add NOTES to your timers.\n➕ ADD sessions/timers anytime.\n⏱️ TRACK time in minutes, hours or sessions.\n🌠 TRANSITION automatically between focusing or rest. Or manual if you prefer.\n🌕 CLEAN and SIMPLE interface.\n🔄 LANDSCAPE and FULLSCREEN mode supported.\n🌙 DARK/NIGHT theme.\n👏 REPEATED completed alerts, in case you missed the completed alert. Extra time is also added.\n🏃 Runs in the background. This app does not need to be constantly open to work.\n🔕 Activate DO NOT DISTURB during timers.\n📏 LONG sessions of up to 3/4/5 hours supported.\n🎨 TAG colors supported.\n📥 Export your data anytime in CSV or JSON format.\n📎 APP SHORTCUTS to start timers quickly\n📁 AUTOMATIC backup if your Google account is connected. Please visit https://support.google.com/android/answer/2819582?hl=en for more information.\n\n✨ Support us with PRO FEATURES ✨\n📈 EXTENDED tag and date analytics\n🎨 CUSTOMIZE UI colors and more tag colors\n⏱️ Start timers earlier/change duration with the TIME MACHINE\n🌅 Custom START OF DAY for night owls\n\nWatch for new features coming soon!\n\nVisit our website for more info: https://focusmeter.app\nFind our FAQ here: https://focusmeter.app/faqs.html\n\n* Focusmeter runs in the background, please visit https://dontkillmyapp.com/ to check if your phone/device supports background services.",
+    "descriptionHTML": "Focus is important for productivity, but rest is equally important too! Focusmeter helps you to maximize your productivity by balancing focus and rest.<br><br>HOW IT WORKS:<br>1️⃣ Setup your routine: customize the length of your Focus and Rest timers.<br>2️⃣ Start your first Focus timer. 👨‍💻<br>3️⃣ After your timer is completed, it&#39;s time for a break. ☕<br>4️⃣ Start the next Focus timer and stay productive! 👨‍💻<br><br>FEATURES<br>⏲ CUSTOMIZE your own timers. Pomodoro or 52/17, easily customize what works for you!<br>✨ INSIGHTS from your past activities in a month, week or day. See how your routine has been working for you.<br>🔔 CHOOSE your own Focus and Rest alerts when the timer is completed or about to be completed. <br>⏱️ STOPWATCH or normal timers: Both counting up and counting down timers supported.<br>🏷️ TAG Focus and Rest sessions and keep track of distractions.<br>📈 STATISTICS to get insights for individual tags over time.<br>📝 EDIT your timeline/activities. Never forget to track your time. <br>✍️ Add NOTES to your timers.<br>➕ ADD sessions/timers anytime.<br>⏱️ TRACK time in minutes, hours or sessions.<br>🌠 TRANSITION automatically between focusing or rest. Or manual if you prefer.<br>🌕 CLEAN and SIMPLE interface.<br>🔄 LANDSCAPE and FULLSCREEN mode supported.<br>🌙 DARK/NIGHT theme.<br>👏 REPEATED completed alerts, in case you missed the completed alert. Extra time is also added.<br>🏃 Runs in the background. This app does not need to be constantly open to work.<br>🔕 Activate DO NOT DISTURB during timers.<br>📏 LONG sessions of up to 3/4/5 hours supported.<br>🎨 TAG colors supported.<br>📥 Export your data anytime in CSV or JSON format.<br>📎 APP SHORTCUTS to start timers quickly<br>📁 AUTOMATIC backup if your Google account is connected. Please visit https://support.google.com/android/answer/2819582?hl=en for more information.<br><br>✨ Support us with PRO FEATURES ✨<br>📈 EXTENDED tag and date analytics<br>🎨 CUSTOMIZE UI colors and more tag colors<br>⏱️ Start timers earlier/change duration with the TIME MACHINE<br>🌅 Custom START OF DAY for night owls<br><br>Watch for new features coming soon!<br><br>Visit our website for more info: https://focusmeter.app<br>Find our FAQ here: https://focusmeter.app/faqs.html<br><br>* Focusmeter runs in the background, please visit https://dontkillmyapp.com/ to check if your phone/device supports background services.",
+    "summary": "The timer that tracks your focus &amp; rest for better productivity and health.",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "maxInstalls": 427602,
+    "score": 4.61,
+    "scoreText": "4.6",
+    "ratings": 3977,
+    "reviews": 87,
+    "histogram": {
+      "1": 67,
+      "2": 22,
+      "3": 312,
+      "4": 469,
+      "5": 3060
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$2.49 - $22.99 per item",
+    "androidVersion": "7.0",
+    "androidVersionText": "7.0",
+    "androidMaxVersion": "VARY",
+    "developer": "zeitic.co",
+    "developerId": "zeitic.co",
+    "developerEmail": "zeitic.co@gmail.com",
+    "developerWebsite": "https://zeitic.co",
+    "privacyPolicy": "https://zeitic.co/privacy.html",
+    "developerInternalID": "zeitic.co",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productivity",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/E5cHaJgqR50DeYkflh0Q9ZRctKy6k1Ulm9QtqpdC_x1AMAQ6IEuD0RYt2lOIWN5u42M",
+    "headerImage": "https://play-lh.googleusercontent.com/V3axkNL6w4uP3omEuntoj3lv3ylWR5QXLLnogdLVoyoz3gls-aKd1jsz2drXcgeKCts",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OfW0vfTGFaKIe9f1CZ7REsSEigMK2B7xIH6etF11IbiuCwwC4NVgySErWJ7iDg4R8aM",
+      "https://play-lh.googleusercontent.com/2bqS9Oi2asHnuUEdzgeeFHqxHzSKE-yX1dOIqOrBwMlWa4B-WzV0yFJsGxma1CU7eg",
+      "https://play-lh.googleusercontent.com/O6i2BrGpBrsnJ6vY4I9jTydETXa508QzwLbl5VMj_eHp1m6r2MADOsBo1LBt_ql77w",
+      "https://play-lh.googleusercontent.com/7faHWln7CxsRrypR4rEzae9Gr7muOtD9ZWqu3WSw_Avxb0odbf0ocROUPfJeV1xAaBw",
+      "https://play-lh.googleusercontent.com/eg9_BAS0sCCLigi1CGyOkXukiD_LY7nOEM37nGUpem1e5YkdaH6OCYHPva450nn1tNE",
+      "https://play-lh.googleusercontent.com/WCVa-qyZx-QnOgQjl5lXjfxI16xBkemWJBUZW8eAr8DixpZ8gA3Zsm1mogyYtrTgjEI",
+      "https://play-lh.googleusercontent.com/Q6KC_-jPcgePxo2gasDCkgpwifgggZ_YhargfsW5lmKfGxe7bgnQOosCmKo-PLRxYA",
+      "https://play-lh.googleusercontent.com/oVubQ7zf0BdttG60yLKIqKtQekgbHaKftKVN7OanUShXNcpZzacxhZ19ZqgHJ-VXg2c"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": false,
+    "released": "Mar 16, 2019",
+    "updated": 1769526387000,
+    "version": "1.18",
+    "recentChanges": "- Added tag display to widgets<br>- Added transparent background for widgets<br>- Fixed import data bug",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "co.zeitic.focusmeter",
+    "url": "https://play.google.com/store/apps/details?id=co.zeitic.focusmeter&hl=en&gl=us"
+  }
+}

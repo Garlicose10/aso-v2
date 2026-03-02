@@ -1,0 +1,72 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.engross\"}_us_en",
+  "timestamp": "2026-01-29T21:15:47.759Z",
+  "data": {
+    "title": "Engross: ADHD Focus Timer",
+    "description": "Master Your Focus: Built for Brains that Wander\n\nDo you struggle with executive dysfunction, time blindness, or the constant \"procrastination loop\"? Engross isn’t just another productivity app—it’s a dedicated workspace designed to help you work with your brain, not against it.\n\nBy combining a Pomodoro-inspired Focus Timer with a Progressive To-Do List and App Blocker, Engross provides the external structure needed to initiate tasks, sustain attention, and finally finish what you start.\n\n🧠 Why Engross is Different for ADHD: Most apps assume you’re already organized. Engross assumes you’re overwhelmed. Our unique ‘Hit me when you are distracted’ button is a science-backed mindfulness tool. It doesn't just track time; it helps you build the \"focus muscle\" by gently pulling your brain back to the present moment without the guilt.\n\n⏱️ Core Features for Deep Work:\nCombat Time Blindness\n• Flexible Pomodoro Timer: Customize work and break intervals to fit your energy cycles (up to 180-minute sessions).\n• Visual Time Tracking: Use the Stopwatch or Timer to make time \"tactile,\" helping you transition between tasks without the usual panic.\n• Integrated Sessions: Start a timer directly from your To-Do list. No friction, no app-switching, just focus.\n• Session Tagging: Tag sessions with labels and keep track of where your time goes.\n\nEnd Task Paralysis\n• Progressive To-Do List: Don't just list tasks—track them with a progress tracker. Break big, scary projects into small, \"dopamine-friendly\" sub-tasks. \n• Flexible Recurring Tasks: Set reminders for \"alternate days\" or \"twice a week\" to fit your actual routine, not a rigid 9-to-5.\n• Smart Reminders: Get notified up to 24 hours in advance to prep your brain for upcoming transitions.\n\nSilence the Digital Noise\n• App Whitelist: Automatically block distracting apps (Social Media, Games) the moment your timer starts.\n• Focus White Noise: Built-in ambient sounds to help you enter a \"Flow State\" instantly and drown out environmental distractions.\n\n📅 A Planner That Actually Works\n• Zero-Overwhelm Calendar: Plan your day from morning coffee to deep work blocks in a neat, simple interface.\n• Routine Builder: Create recurring events to automate your habits and reduce the cognitive load of \"deciding\" what to do next.\n\n📊 Visual Progress & Insights\n• Dopamine-Friendly Analytics: See your focus trends and peak performance times through 7 detailed charts.\n• Session History: Understand exactly where your time goes and celebrate the \"Deep Work\" hours you’ve reclaimed.\n\nPerfect for:\n• Students: Crush assignments and study for exams without the last-minute panic.\n• Remote Workers & Freelancers: Create structure in a flexible world and track client hours with ease.\n• The Neurodivergent Community: A low-clutter, high-support tool for ADHD and executive function challenges.\n\nStop managing your time. Start mastering your focus. Join thousands of users who use Engross to beat procrastination and get things done, one session at a time.\n\nPomodoro™ and Pomodoro Technique® are registered trademarks of Francesco Cirillo. This app is not affiliated with Francesco Cirillo.",
+    "descriptionHTML": "Master Your Focus: Built for Brains that Wander<br><br>Do you struggle with executive dysfunction, time blindness, or the constant &quot;procrastination loop&quot;? Engross isn’t just another productivity app—it’s a dedicated workspace designed to help you work with your brain, not against it.<br><br>By combining a Pomodoro-inspired Focus Timer with a Progressive To-Do List and App Blocker, Engross provides the external structure needed to initiate tasks, sustain attention, and finally finish what you start.<br><br>🧠 Why Engross is Different for ADHD: Most apps assume you’re already organized. Engross assumes you’re overwhelmed. Our unique ‘Hit me when you are distracted’ button is a science-backed mindfulness tool. It doesn&#39;t just track time; it helps you build the &quot;focus muscle&quot; by gently pulling your brain back to the present moment without the guilt.<br><br>⏱️ Core Features for Deep Work:<br>Combat Time Blindness<br>• Flexible Pomodoro Timer: Customize work and break intervals to fit your energy cycles (up to 180-minute sessions).<br>• Visual Time Tracking: Use the Stopwatch or Timer to make time &quot;tactile,&quot; helping you transition between tasks without the usual panic.<br>• Integrated Sessions: Start a timer directly from your To-Do list. No friction, no app-switching, just focus.<br>• Session Tagging: Tag sessions with labels and keep track of where your time goes.<br><br>End Task Paralysis<br>• Progressive To-Do List: Don&#39;t just list tasks—track them with a progress tracker. Break big, scary projects into small, &quot;dopamine-friendly&quot; sub-tasks. <br>• Flexible Recurring Tasks: Set reminders for &quot;alternate days&quot; or &quot;twice a week&quot; to fit your actual routine, not a rigid 9-to-5.<br>• Smart Reminders: Get notified up to 24 hours in advance to prep your brain for upcoming transitions.<br><br>Silence the Digital Noise<br>• App Whitelist: Automatically block distracting apps (Social Media, Games) the moment your timer starts.<br>• Focus White Noise: Built-in ambient sounds to help you enter a &quot;Flow State&quot; instantly and drown out environmental distractions.<br><br>📅 A Planner That Actually Works<br>• Zero-Overwhelm Calendar: Plan your day from morning coffee to deep work blocks in a neat, simple interface.<br>• Routine Builder: Create recurring events to automate your habits and reduce the cognitive load of &quot;deciding&quot; what to do next.<br><br>📊 Visual Progress &amp; Insights<br>• Dopamine-Friendly Analytics: See your focus trends and peak performance times through 7 detailed charts.<br>• Session History: Understand exactly where your time goes and celebrate the &quot;Deep Work&quot; hours you’ve reclaimed.<br><br>Perfect for:<br>• Students: Crush assignments and study for exams without the last-minute panic.<br>• Remote Workers &amp; Freelancers: Create structure in a flexible world and track client hours with ease.<br>• The Neurodivergent Community: A low-clutter, high-support tool for ADHD and executive function challenges.<br><br>Stop managing your time. Start mastering your focus. Join thousands of users who use Engross to beat procrastination and get things done, one session at a time.<br><br>Pomodoro™ and Pomodoro Technique® are registered trademarks of Francesco Cirillo. This app is not affiliated with Francesco Cirillo.",
+    "summary": "Beat time blindness. An ADHD focus timer, to-do &amp; app blocker to stay in flow.",
+    "installs": "500,000+",
+    "minInstalls": 500000,
+    "maxInstalls": 764414,
+    "score": 4.3762374,
+    "scoreText": "4.4",
+    "ratings": 13336,
+    "reviews": 411,
+    "histogram": {
+      "1": 780,
+      "2": 525,
+      "3": 780,
+      "4": 1967,
+      "5": 9236
+    },
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "$0.99 - $7.99 per item",
+    "androidVersion": "7.0",
+    "androidVersionText": "7.0",
+    "androidMaxVersion": "VARY",
+    "developer": "Engross Apps",
+    "developerId": "Engross+Apps",
+    "developerEmail": "support@engrossapp.com",
+    "developerWebsite": "http://www.engrossapp.com",
+    "privacyPolicy": "http://www.engrossapp.com/privacy.html",
+    "developerInternalID": "Engross+Apps",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productivity",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/EMUWOrZFHL8KDLir40QpQ89SqmR3bgohqhJwf0EfYUXMQMedG3G9jIJG1kaAcYdjb0c",
+    "headerImage": "https://play-lh.googleusercontent.com/zt9awxK8-XaBP8q-ejuT2jzd-lqRgkpIEuVETa1QKvW68W3zqMi10wfSMetDulm2enwA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/lBMl4Fe75-0ThpNqYGfVjVxWuy6TaY3yC9xrzJqV0qDcBZ_e_4vD5fSmzwetqpjOZkBkIF9nmNdhnSJ7rE22VQg",
+      "https://play-lh.googleusercontent.com/JNruDn0WzArdavi8IZQsTik9e-6UOnHAAqLmJK-eBAh9PM99N-RyUazRxH2NMsAim2EUCmKrenzL_ODb_M4_mmU",
+      "https://play-lh.googleusercontent.com/VZwJerevJvH74WffesP2OALQg5muCWKrrBV4rmFmXH5rm2QjdWlaHDa3G3D9BOcXZ1IZNjkC6B0XpxqvCHs42U8",
+      "https://play-lh.googleusercontent.com/7m6xlkCCYN0UY1Ynsv4sBX_26QPLXiS-iMas60kvTSQEjIatO6gM8IutWrjLIpxsh0KI3a4Iv60HMpEu_YIb",
+      "https://play-lh.googleusercontent.com/hi0wnaA6NHPgPGrahwW8unc115OIefbIzBv-PJX2N-HBD-R7wIuYMfn-z3Z2ACjOwgHmwyymZDdF2Ng3vbmquA",
+      "https://play-lh.googleusercontent.com/cxGa1NlIzNM1wv6epdSrtgweXDAnfICLtaDlGkhOuIXhEBRI_jS5I_l-rmpD6iAXADSbKqDY4PYt5huRyFXo2Q",
+      "https://play-lh.googleusercontent.com/-2etD5_HfEijhUgOiljD3XcxL8cyLYQl6QPitxKdBif4wpPTvXnCmCQfmp56G0QUNx52Hqzhy1ujeLcvPkRR",
+      "https://play-lh.googleusercontent.com/ERzQ_fopQM86t5tdfQWt4Arwb33XJqSLfuCYPQdmNgpVE-d6xodGHcVuMdaUYDwa8ihko4kTEigqtZzqeAhArw"
+    ],
+    "contentRating": "Everyone",
+    "adSupported": false,
+    "released": "Feb 18, 2017",
+    "updated": 1763466504000,
+    "version": "12.1.0",
+    "recentChanges": "v12.1.0<br>- Deep focus features improved.<br>- Bug fixes.<br>- UI/UX Improvements.<br>v12.0.3<br>- Bug fixes.<br>v12.0.0<br>- Improved timer to make it more robust and efficient. <br>- UI/UX improvements.<br>We hope you like the improvements, if you face any kind of issue or have any feedback, please feel free to drop us a note at support@engrossapp.com.",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.engross",
+    "url": "https://play.google.com/store/apps/details?id=com.engross&hl=en&gl=us"
+  }
+}
