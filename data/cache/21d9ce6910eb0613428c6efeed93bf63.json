@@ -1,0 +1,67 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.pdfview.easyedit.reader\"}_es_es",
+  "timestamp": "2026-03-02T11:10:16.011Z",
+  "data": {
+    "title": "Easy PDF Viewer - PDF Scanner",
+    "description": "Características Clave\n\nVisor de PDF y Documentos\nGestión Centralizada: Escanea y lista todos los archivos PDF en tu dispositivo para una lectura y gestión de archivos conveniente y en un solo lugar.\n\nCompatibilidad Universal: Abre y visualiza no solo archivos PDF, sino también archivos de Word, Excel, PPT, y TXT directamente.\n\nEscaneo Instantáneo a PDF\nConversión de Alta Calidad: Utiliza la cámara de tu dispositivo para escanear y transformar documentos al instante en archivos PDF nítidos y de alta calidad.\n\nMás Herramientas PDF\nImagen a PDF: Convierte imágenes a formato PDF estándar rápidamente y fácilmente.\n\nWord a PDF: Transforma sin problemas tus documentos de Word en archivos PDF de alta calidad.\n\nDividir PDF: Divide grandes documentos PDF en secciones más pequeñas y más manejables.\n\nFusionar PDF: Combina múltiples archivos PDF en un único documento unificado.\n\nBloquear PDF: Asegura documentos sensibles con protección por contraseña y cifrado.",
+    "descriptionHTML": "Características Clave<br><br>Visor de PDF y Documentos<br>Gestión Centralizada: Escanea y lista todos los archivos PDF en tu dispositivo para una lectura y gestión de archivos conveniente y en un solo lugar.<br><br>Compatibilidad Universal: Abre y visualiza no solo archivos PDF, sino también archivos de Word, Excel, PPT, y TXT directamente.<br><br>Escaneo Instantáneo a PDF<br>Conversión de Alta Calidad: Utiliza la cámara de tu dispositivo para escanear y transformar documentos al instante en archivos PDF nítidos y de alta calidad.<br><br>Más Herramientas PDF<br>Imagen a PDF: Convierte imágenes a formato PDF estándar rápidamente y fácilmente.<br><br>Word a PDF: Transforma sin problemas tus documentos de Word en archivos PDF de alta calidad.<br><br>Dividir PDF: Divide grandes documentos PDF en secciones más pequeñas y más manejables.<br><br>Fusionar PDF: Combina múltiples archivos PDF en un único documento unificado.<br><br>Bloquear PDF: Asegura documentos sensibles con protección por contraseña y cifrado.",
+    "summary": "Utilidad PDF versátil: lectura, edición y conversión.",
+    "installs": "500.000+",
+    "minInstalls": 500000,
+    "maxInstalls": 698820,
+    "score": 3.2,
+    "scoreText": "3,2",
+    "ratings": 589,
+    "reviews": 15,
+    "histogram": {
+      "1": 196,
+      "2": 19,
+      "3": 39,
+      "4": 137,
+      "5": 196
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": false,
+    "androidVersion": "8.0",
+    "androidVersionText": "8.0",
+    "androidMaxVersion": "VARY",
+    "developer": "Innomotive Centrics",
+    "developerId": "Innomotive+Centrics",
+    "developerEmail": "innmotives@gmail.com",
+    "developerWebsite": "http://easypdf.top",
+    "privacyPolicy": "https://sites.google.com/view/easy-pdf-viewer-privacy-policy",
+    "developerInternalID": "Innomotive+Centrics",
+    "genre": "Productividad",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productividad",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/iaeXGR5twhEsXUVODaSod3zREo_XASwREqn4unreRHJ10u07dsrZ3zs2VKAz4iBWe7danX2EYUVWpBtYUbt7zA",
+    "headerImage": "https://play-lh.googleusercontent.com/p0g1BEZFYL9iPc6VmuFMLESMaZ4j4eD_zTwjjKb52uApYLuSsHYL49qSuFCRhKKcUDfjsxbD3uZdxE6LafbGaw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/uZk9NURNvgBpclYwoLWgnb0RC2yRfOsh2CF3Di1vyaqrC0K-7cUOqomTArjrJk27c3DHY_vgdUnXHxfIdRzCqw",
+      "https://play-lh.googleusercontent.com/xIB0cQu-E9VLEUAp2nRbZ7_4L_Yd11zlHIwVfgbo9RW60G3Pje6bni3kKpM1LvYzgbN86QQIFvn24cysBJbo6g",
+      "https://play-lh.googleusercontent.com/avWi9jCck_1OFzDnpxOSfZqvYOIQIWZLku5ooHKS8EtbTIb9gzPro0tGb2fGjSuMKbAF2jrKoaHNvaQ_J3YrPQ",
+      "https://play-lh.googleusercontent.com/25FTZXppH0c9JIUjMrjhQxV64fmXTR6tMILaHJQzSNJ5840SG4xtS_9gE6hgFEVl0c2jgNObNLUikwA8xyaJ",
+      "https://play-lh.googleusercontent.com/LWYFJH7ufhw9_dJv-r0v6u4VRJ9WXgm7hogYLdk30ziKVU4JBYtsPLTTMXuSQMf6Rs5-kI0qeUFkPJzZ0YRB"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": true,
+    "released": "16 oct 2025",
+    "updated": 1761650367000,
+    "version": "1.0.1",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.pdfview.easyedit.reader",
+    "url": "https://play.google.com/store/apps/details?id=com.pdfview.easyedit.reader&hl=es&gl=es"
+  }
+}

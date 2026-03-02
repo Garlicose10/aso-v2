@@ -75,6 +75,17 @@ app.get('/api/search', async (req, res) => {
     }
 });
 
+app.get('/api/discover', async (req, res) => {
+    try {
+        console.log('Discovering Blue Oceans...');
+        const results = await scraper.discoverNiches();
+        res.json(results);
+    } catch (error) {
+        console.error('Discovery failed:', error);
+        res.status(500).json({ error: 'Discovery failed' });
+    }
+});
+
 app.listen(port, () => {
     console.log(`ASO Server running at http://localhost:${port}`);
 });

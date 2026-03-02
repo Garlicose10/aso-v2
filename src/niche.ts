@@ -237,6 +237,85 @@ export class NicheScraper {
         }
     }
 
+    async discoverNiches(): Promise<any[]> {
+        const categories = [
+            'ART_AND_DESIGN', 'AUTO_AND_VEHICLES', 'BEAUTY', 'BOOKS_AND_REFERENCE', 'BUSINESS',
+            'COMICS', 'COMMUNICATION', 'DATING', 'EDUCATION', 'ENTERTAINMENT', 'EVENTS',
+            'FINANCE', 'FOOD_AND_DRINK', 'HEALTH_AND_FITNESS', 'HOUSE_AND_HOME',
+            'LIBRARIES_AND_DEMO', 'LIFESTYLE', 'MAPS_AND_NAVIGATION', 'MEDICAL', 'MUSIC_AND_AUDIO',
+            'NEWS_AND_MAGAZINES', 'PARENTING', 'PERSONALIZATION', 'PHOTOGRAPHY', 'PRODUCTIVITY',
+            'SHOPPING', 'SOCIAL', 'SPORTS', 'TOOLS', 'TRAVEL_AND_LOCAL', 'VIDEO_PLAYERS', 'WEATHER'
+        ];
+
+        // Pick 3 random categories to explore
+        const shuffled = categories.sort(() => 0.5 - Math.random());
+        const selectedCategories = shuffled.slice(0, 3);
+
+        let allVulnerable: any[] = [];
+        const aso = new ASO('gplay', { country: 'es', language: 'es', throttle: 500 });
+
+        for (const cat of selectedCategories) {
+            console.log(`[Discover] Exploring TOP_FREE in ${cat}...`);
+            try {
+                const apps = await aso.getCollection({
+                    collection: 'TOP_FREE',
+                    category: cat,
+                    num: 150
+                });
+
+                // Filter 1: Quick filter by score <= 4.1 in standard list
+                const lowScoreApps = apps.filter(a => (a.score || 0) > 0 && (a.score || 0) <= 4.1);
+
+                // Shuffle potential apps to get varity and fetch details for handful
+                const shuffledLowScore = lowScoreApps.sort(() => 0.5 - Math.random()).slice(0, 10);
+
+                for (const app of shuffledLowScore) {
+                    try {
+                        const appId = app.appId || (app as any).id;
+                        if (!appId) continue;
+
+                        const detail = await aso.getAppInfo(appId);
+
+                        const isMegacorp = ['Google', 'Meta', 'Microsoft', 'Amazon', 'Facebook', 'Instagram', 'WhatsApp', 'Netflix', 'Spotify', 'Adobe', 'Samsung', 'Apple'].some(corp => (detail.developer || '').toLowerCase().includes(corp.toLowerCase()));
+
+                        // Filter 2: Installs >= 100k, not megacorp
+                        if ((detail.minInstalls || 0) >= 100000 && (detail.score || 0) <= 4.1 && !isMegacorp) {
+                            allVulnerable.push(detail);
+                            console.log(`[Discover]  > Ocean Found: ${detail.title} (${detail.score} stars, ${detail.minInstalls} installs)`);
+                        }
+                    } catch (e) {
+                        // ignore detail fetch errors
+                    }
+                }
+            } catch (e) {
+                console.error(`[Discover] Failed fetching category ${cat}:`, e);
+            }
+        }
+
+        // Sort by opportunity (lowest score, highest installs)
+        allVulnerable.sort((a, b) => {
+            const scoreDiff = (a.score || 0) - (b.score || 0);
+            if (scoreDiff !== 0) return scoreDiff;
+            return (b.minInstalls || 0) - (a.minInstalls || 0);
+        });
+
+        // Unique by AppId to prevent duplicates
+        allVulnerable = R.uniqBy(app => app.appId, allVulnerable);
+
+        return allVulnerable.slice(0, 12).map(app => ({
+            appId: app.appId,
+            title: app.title,
+            icon: app.icon || app.icon,
+            developer: app.developer,
+            score: app.score,
+            installs: app.minInstalls,
+            genre: app.genre,
+            free: app.free,
+            price: app.price,
+            summary: app.summary || app.description?.substring(0, 100) + '...'
+        }));
+    }
+
     async searchApps(query: string): Promise<AppInfo[]> {
         return this.searchStore(query, 'es'); // Default to ES for search selection, or maybe US? Let's do ES for now or param
     }

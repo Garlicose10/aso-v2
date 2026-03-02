@@ -1,0 +1,70 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.ezt.pdfreader.pdfviewer\"}_es_es",
+  "timestamp": "2026-03-02T11:10:15.365Z",
+  "data": {
+    "title": "PDF Reader – PDF Viewer",
+    "description": "PDF Reader: PDF Viewer es la aplicación de oficina liviana que puede usar para leer todos los documentos, leer archivos PDF almacenados localmente en su dispositivo, la aplicación admite todos los archivos pdf, incluso el que tiene protección con contraseña.\n\nVisor de PDF\n✔ Visualización rápida: PDF Reader Plus utiliza la tecnología más avanzada disponible en la actualidad para acelerar la carga y visualización de archivos PDF rápidamente, incluso con archivos PDF de gran tamaño.\n✔ Modo de visualización: elija una página, dos páginas, modo libro o modo de lectura a pantalla completa para ver PDF\n✔ Orientación de PDF: las vistas vertical y horizontal brindan la experiencia más conveniente para usted\n✔ Movimiento rápido de página: Ir a un número de página específico, regresar a la página de navegación rápida, lector de PDF\n✔ Marcadores: cree marcadores cuando se trata de una navegación intuitiva a través de archivos PDF\n✔ Color del tema: personaliza los temas eligiendo un tema oscuro o un tema claro\n\nConvertidor y escáner de PDF\n✔ Imagen a PDF: use el escáner de PDF gratuito para convertir imágenes, recibos, notas y más en archivos PDF\n✔ PDF a JPG: convierta PDF a imágenes con anotaciones para compartir mejor\n✔ PDF Creator: cree un archivo PDF a partir de varias imágenes (PNG, JPG, TIFF, GIF).\n\nPDF Reader: PDF Viewer es una aplicación muy rápida y fácil de usar que lo ayuda a abrir archivos PDF grandes;\nAdmite la lectura de archivos PDF de más de 300 MB de tamaño más rápido que nunca. PDF Reader: PDF Viewer es simple y fácil de administrar y ver archivos PDF.\nDisfrute de todas las funciones que necesita en un lector de PDF: visor de PDF.",
+    "descriptionHTML": "PDF Reader: PDF Viewer es la aplicación de oficina liviana que puede usar para leer todos los documentos, leer archivos PDF almacenados localmente en su dispositivo, la aplicación admite todos los archivos pdf, incluso el que tiene protección con contraseña.<br><br>Visor de PDF<br>✔ Visualización rápida: PDF Reader Plus utiliza la tecnología más avanzada disponible en la actualidad para acelerar la carga y visualización de archivos PDF rápidamente, incluso con archivos PDF de gran tamaño.<br>✔ Modo de visualización: elija una página, dos páginas, modo libro o modo de lectura a pantalla completa para ver PDF<br>✔ Orientación de PDF: las vistas vertical y horizontal brindan la experiencia más conveniente para usted<br>✔ Movimiento rápido de página: Ir a un número de página específico, regresar a la página de navegación rápida, lector de PDF<br>✔ Marcadores: cree marcadores cuando se trata de una navegación intuitiva a través de archivos PDF<br>✔ Color del tema: personaliza los temas eligiendo un tema oscuro o un tema claro<br><br>Convertidor y escáner de PDF<br>✔ Imagen a PDF: use el escáner de PDF gratuito para convertir imágenes, recibos, notas y más en archivos PDF<br>✔ PDF a JPG: convierta PDF a imágenes con anotaciones para compartir mejor<br>✔ PDF Creator: cree un archivo PDF a partir de varias imágenes (PNG, JPG, TIFF, GIF).<br><br>PDF Reader: PDF Viewer es una aplicación muy rápida y fácil de usar que lo ayuda a abrir archivos PDF grandes;<br>Admite la lectura de archivos PDF de más de 300 MB de tamaño más rápido que nunca. PDF Reader: PDF Viewer es simple y fácil de administrar y ver archivos PDF.<br>Disfrute de todas las funciones que necesita en un lector de PDF: visor de PDF.",
+    "summary": "Lector de PDF todo en uno: administre, lea y edite sus documentos",
+    "installs": "100.000.000+",
+    "minInstalls": 100000000,
+    "maxInstalls": 200877309,
+    "score": 4.183953,
+    "scoreText": "4,2",
+    "ratings": 478425,
+    "reviews": 1534,
+    "histogram": {
+      "1": 48609,
+      "2": 13087,
+      "3": 37391,
+      "4": 81420,
+      "5": 297636
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": true,
+    "IAPRange": "0,49 € - 74,99 € si se factura a través de Google Play",
+    "androidVersion": "8.0",
+    "androidVersionText": "8.0",
+    "androidMaxVersion": "VARY",
+    "developer": "EZTech Apps",
+    "developerId": "6656531603167497537",
+    "developerEmail": "thangpv5494@gmail.com",
+    "developerWebsite": "https://pdf-reader-55b9c.web.app",
+    "privacyPolicy": "https://sites.google.com/view/eztechapps/home",
+    "developerInternalID": "6656531603167497537",
+    "genre": "Productividad",
+    "genreId": "PRODUCTIVITY",
+    "categories": [
+      {
+        "name": "Productividad",
+        "id": "PRODUCTIVITY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/DmOukkkgQAAuCcUDsETgEj05UQaVcrvscGHa7f9r5AtdOZaFY8uED38rruq3ZSXpca4",
+    "headerImage": "https://play-lh.googleusercontent.com/eKd9ipI9ngAll1x29RuHmR_TajF325hvyq_b7WPihUCEM0aa_20_NcgnMrLMNK-7UA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7nFU_qFdDo-I2ZAb2Cc41XMGFcEmmPPnLOLGXvTGTeNCQPAgQckyDACsFWyhiAE38-7M",
+      "https://play-lh.googleusercontent.com/fQRaxLvKNLejTLLMRZnxu0RFExlJFXZHVX9nxfMKq_tNrcwfX-xIzVagr7_xWQX9sio",
+      "https://play-lh.googleusercontent.com/flvC4KN44EL-15OFUJRGDQlbS8FLZ1HCSrujydZu7oaB_8LiF-FpyWyDqpS-QHCkHUrp",
+      "https://play-lh.googleusercontent.com/r1yBvkgTYZ06GO1sKP1XuZUuFHSXmjpXopQTVZB5auA9SxdKStuC5Ubq1FsdoG7MNVM",
+      "https://play-lh.googleusercontent.com/jh7Va5GjH1-c68ZmQbvLxiuJBrSEoFpdd4cZD10PYznV-O1E1Z2_6rDeo7RWkX480Uo",
+      "https://play-lh.googleusercontent.com/IAYzWEz4hpTGCRxVcLvQ5o4M0_A78iyW_nwBVzKE9w_FT8sdsUapbu6f34c5luQOmyV4",
+      "https://play-lh.googleusercontent.com/dWRojBNIK4aHbFaWTMmJr4-ibSB5pExIgD-VKDZQNHIwWv6MG-2LqUhDZMHa1uITJg"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": true,
+    "released": "13 sept 2022",
+    "updated": 1770971651000,
+    "version": "3.2.3",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.ezt.pdfreader.pdfviewer",
+    "url": "https://play.google.com/store/apps/details?id=com.ezt.pdfreader.pdfviewer&hl=es&gl=es"
+  }
+}

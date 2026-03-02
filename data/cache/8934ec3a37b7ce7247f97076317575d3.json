@@ -1,0 +1,70 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.techosteg.recovery\"}_es_es",
+  "timestamp": "2026-03-02T11:10:17.652Z",
+  "data": {
+    "title": "Recuperación de fotos & Video",
+    "description": "🔐Recuperación de Fotos: Te ayuda a recuperar archivos borrados o perdidos. Ya sean fotos, videos o documentos, te tenemos cubierto.\n\n🌟¿Por qué elegir Recuperación de Fotos?:\n🖼️Recuperación de Fotos y Videos: Elige los tipos de archivos que quieres restaurar, como imágenes y videos.\n📑Recuperación de Documentos: Recupera archivos importantes como PDF y documentos de Word.\n🎶Recuperación de Archivos de Audio: Te ayuda a encontrar grabaciones, música u otros archivos de audio importantes borrados accidentalmente.\n👓 Vista Previa Antes de Restaurar: Una vez finalizado el análisis, previsualiza todos los archivos recuperables y elige qué recuperar.\n📊 Resumen de Almacenamiento: Obtén un desglose claro y visual del almacenamiento de tu teléfono.\n📁 Información Detallada de Archivos: Consulta los detalles de los archivos recuperados.\n\n🌟Más Herramientas de Limpieza Móvil:\nLimpiador de Archivos Basura: Limpia archivos basura.\nLimpiador de Imágenes Similares: Encuentra y elimina imágenes similares. Screenshot Sweep: Encuentra y elimina capturas de pantalla de tu teléfono.\n✅ NOTA:\nPhoto Recover está diseñado para escanear el almacenamiento de tu dispositivo y recuperar imágenes, vídeos y archivos relacionados que siguen patrones de ruta específicos (p. ej., /./). También puede detectar y restaurar archivos en caché dejados por aplicaciones de terceros.\n\nLimitaciones de la recuperación:\nEl éxito de la recuperación de archivos depende de varios factores, como la configuración del hardware de tu dispositivo, el estado del medio de almacenamiento y el rendimiento del sistema de archivos. Debido a estas variables, no se puede garantizar la recuperación completa de todos los archivos.\n\nAviso importante:\nSi se ha restablecido a la configuración de fábrica, los archivos eliminados antes no se podrán recuperar con esta aplicación.\n\nProtección de la privacidad:\nTodas las operaciones de escaneo y recuperación se realizan íntegramente en tu dispositivo. No se recopilan, almacenan ni transmiten datos personales a servidores externos ni a terceros.\n\n¿Tienes preguntas o comentarios? ¡Estamos aquí para ayudarte! Contacta con nuestro equipo de soporte en techosteg@gmail.com",
+    "descriptionHTML": "🔐Recuperación de Fotos: Te ayuda a recuperar archivos borrados o perdidos. Ya sean fotos, videos o documentos, te tenemos cubierto.<br><br>🌟¿Por qué elegir Recuperación de Fotos?:<br>🖼️Recuperación de Fotos y Videos: Elige los tipos de archivos que quieres restaurar, como imágenes y videos.<br>📑Recuperación de Documentos: Recupera archivos importantes como PDF y documentos de Word.<br>🎶Recuperación de Archivos de Audio: Te ayuda a encontrar grabaciones, música u otros archivos de audio importantes borrados accidentalmente.<br>👓 Vista Previa Antes de Restaurar: Una vez finalizado el análisis, previsualiza todos los archivos recuperables y elige qué recuperar.<br>📊 Resumen de Almacenamiento: Obtén un desglose claro y visual del almacenamiento de tu teléfono.<br>📁 Información Detallada de Archivos: Consulta los detalles de los archivos recuperados.<br><br>🌟Más Herramientas de Limpieza Móvil:<br>Limpiador de Archivos Basura: Limpia archivos basura.<br>Limpiador de Imágenes Similares: Encuentra y elimina imágenes similares. Screenshot Sweep: Encuentra y elimina capturas de pantalla de tu teléfono.<br>✅ NOTA:<br>Photo Recover está diseñado para escanear el almacenamiento de tu dispositivo y recuperar imágenes, vídeos y archivos relacionados que siguen patrones de ruta específicos (p. ej., /./). También puede detectar y restaurar archivos en caché dejados por aplicaciones de terceros.<br><br>Limitaciones de la recuperación:<br>El éxito de la recuperación de archivos depende de varios factores, como la configuración del hardware de tu dispositivo, el estado del medio de almacenamiento y el rendimiento del sistema de archivos. Debido a estas variables, no se puede garantizar la recuperación completa de todos los archivos.<br><br>Aviso importante:<br>Si se ha restablecido a la configuración de fábrica, los archivos eliminados antes no se podrán recuperar con esta aplicación.<br><br>Protección de la privacidad:<br>Todas las operaciones de escaneo y recuperación se realizan íntegramente en tu dispositivo. No se recopilan, almacenan ni transmiten datos personales a servidores externos ni a terceros.<br><br>¿Tienes preguntas o comentarios? ¡Estamos aquí para ayudarte! Contacta con nuestro equipo de soporte en techosteg@gmail.com",
+    "summary": "Recupere su archivo de foto y vídeo perdido.",
+    "installs": "1.000.000+",
+    "minInstalls": 1000000,
+    "maxInstalls": 1292603,
+    "score": 4.0434785,
+    "scoreText": "4,0",
+    "ratings": 1094,
+    "reviews": 6,
+    "histogram": {
+      "1": 190,
+      "2": 47,
+      "3": 0,
+      "4": 142,
+      "5": 713
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": false,
+    "androidVersion": "8.0",
+    "androidVersionText": "8.0",
+    "androidMaxVersion": "VARY",
+    "developer": "SOLVEXUK dev",
+    "developerId": "SOLVEXUK+dev",
+    "developerEmail": "techosteg@gmail.com",
+    "developerWebsite": "http://greatphotorecover.com/",
+    "privacyPolicy": "https://sites.google.com/view/photorecover-techosteg-privacy/",
+    "developerInternalID": "SOLVEXUK+dev",
+    "genre": "Herramientas",
+    "genreId": "TOOLS",
+    "categories": [
+      {
+        "name": "Herramientas",
+        "id": "TOOLS"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/4nfl49y9Au1fFX2ieJejjskFaAktleBmBwFC6JW8wr7fnb-A3utYQJ47bzxO9eCltP3WGWgd_OWnvGC2EwTu",
+    "headerImage": "https://play-lh.googleusercontent.com/r_G0KY7E6xuGTUwPcRAUvJeblOyo26kBXhzAY4G5DWYLkxTFzNNJQeDU5XUgA30a_LNYixNAFlFRty64WDpbPsA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5IBllP8Bf4SyxnU8wse3vaF_QUD0qEU1319TKfF6CDJ985aqHwxjQnluJx6NdbdAMG_KLxT2ObTtoZ6Rt6hcZ3Q",
+      "https://play-lh.googleusercontent.com/NcHGeZXh9VLIqANa58x0EtYe7s99vdC3k0B9V5Vjiz70sMObnn7UM0Y3oyD1_DsB4YZ97WzimM5xIYER6BQk",
+      "https://play-lh.googleusercontent.com/_K1JQb0Yw62j9LrD_EFH_Ikzb1p3nGZkbM6wGn528aM9vtfghtOkoKpHW3kLc4jrWysCnIs5eh8QFvR5ah5A1g",
+      "https://play-lh.googleusercontent.com/jf438-BZByfdIkLOfSZfdmtktPssPRUlEI147GrN5_RvuySUGdMSTpPA1IHs10b2JHMJt561t8y2TlULpjw3yUs",
+      "https://play-lh.googleusercontent.com/IKGekex0lKILpNUDHM_uMSPv3MdSKJmZTurPcj_Omwa3ToJ0hiyOAdfd2h2gza4wpSaQ-OSpXdjWi1PeE8VM1Q",
+      "https://play-lh.googleusercontent.com/gdFE-DJuxIZ86u4SyH2FK0nc6gi2m8Kzf1bhHeR7fEi4NY4ofHVdoYpsFrP4tXNGo765spWWybLVwH0IAauhLg",
+      "https://play-lh.googleusercontent.com/bzSjvMzSw4HAVobCfHvqHrmTLbUIM5E1NFrbKDohs5jCTyqcVn7JicQlc8hKW15PZYAVzTnh-wp3rwVr59Fq",
+      "https://play-lh.googleusercontent.com/ZUIAVXnG9CeaMWKLUswFsRR8a0MZ9QPl7cJMelefCJTvg9FkbtT2g3natfRckh7I6oUqWCOqjr1tA4FxH3ZBM60"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": true,
+    "released": "29 oct 2025",
+    "updated": 1769071697000,
+    "version": "1.0.0.7",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.techosteg.recovery",
+    "url": "https://play.google.com/store/apps/details?id=com.techosteg.recovery&hl=es&gl=es"
+  }
+}

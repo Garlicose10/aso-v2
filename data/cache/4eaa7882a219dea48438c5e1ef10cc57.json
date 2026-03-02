@@ -1,0 +1,68 @@
+{
+  "key": "gplay_app_{\"appId\":\"com.ikea.lhp\"}_es_es",
+  "timestamp": "2026-03-02T11:10:17.504Z",
+  "data": {
+    "title": "IKEA Home",
+    "description": "Actualmente, IKEA Home solo está disponible en la Comunidad de Madrid y en la provincia de Barcelona.\nTransforma tu hogar con IKEA Home, la aplicación que te conecta con profesionales de confianza para todo tipo de servicios de reformas y mantenimiento. Disfruta de una tarjeta regalo de hasta 500€ cuando finalices tu primer servicio. Ya sea que necesites pintores, fontaneros, electricistas, o expertos en la instalación de aire acondicionado y calefacción, IKEA Home te ofrece una solución integral para mejorar cada rincón de tu hogar.\nCon nuestra aplicación, podrás:\nContratar servicios de climatización, como la instalación de aire acondicionado y calefacción.\nEncontrar pintores que renueven el aspecto de tus paredes, ya sea en el interior o exterior.\nContratar a fontaneros expertos para cualquier tipo de reparación o instalación de agua.\nConfiar en electricistas certificados para asegurar el correcto funcionamiento de la iluminación y los electrodomésticos.\nInstalar o reparar suelos de todo tipo, incluyendo alicatado, vinilo y más.\nAcceder a carpinteros para servicios de carpintería de aluminio y PVC.\nContratar servicios de limpieza del hogar para dejar tu espacio impecable.\nGestionar mudanzas de manera eficiente y sin complicaciones.\nAdemás, con IKEA Home puedes gestionar tus proyectos de reforma fácilmente desde la app, desde la solicitud inicial hasta la finalización del servicio, asegurando siempre una alta calidad y a un precio asequible.\n¿Cómo funciona IKEA Home? Es muy fácil:\nExplora las categorías de servicios y encuentra el profesional que mejor se ajuste a tus necesidades.\nSolicita el servicio y recibe un presupuesto personalizado por parte de profesionales cualificados.\nCoordina todos los detalles directamente a través de la app, y deja que los expertos se encarguen del resto.\n¿Cuáles son los beneficios de utilizar IKEA Home?\nConfianza: Todos los profesionales están certificados y verificados para ofrecer un servicio de máxima calidad.\nComodidad: Desde la solicitud hasta la finalización del servicio, todo se gestiona de forma sencilla desde la app.\nVariedad de servicios: Accede a un catálogo de servicios que cubre todas las necesidades de tu hogar, desde pequeñas reparaciones hasta reformas integrales.\nTransparencia: Consulta reseñas de otros usuarios y selecciona al profesional que mejor se ajuste a tus necesidades y presupuesto.\nAhorro de tiempo: Recibe varias propuestas sin necesidad de buscar por tu cuenta, y elige la mejor opción de forma rápida y sencilla.\nDescubre la forma más fácil y segura de mejorar tu hogar con IKEA Home.",
+    "descriptionHTML": "Actualmente, IKEA Home solo está disponible en la Comunidad de Madrid y en la provincia de Barcelona.<br>Transforma tu hogar con IKEA Home, la aplicación que te conecta con profesionales de confianza para todo tipo de servicios de reformas y mantenimiento. Disfruta de una tarjeta regalo de hasta 500€ cuando finalices tu primer servicio. Ya sea que necesites pintores, fontaneros, electricistas, o expertos en la instalación de aire acondicionado y calefacción, IKEA Home te ofrece una solución integral para mejorar cada rincón de tu hogar.<br>Con nuestra aplicación, podrás:<br>Contratar servicios de climatización, como la instalación de aire acondicionado y calefacción.<br>Encontrar pintores que renueven el aspecto de tus paredes, ya sea en el interior o exterior.<br>Contratar a fontaneros expertos para cualquier tipo de reparación o instalación de agua.<br>Confiar en electricistas certificados para asegurar el correcto funcionamiento de la iluminación y los electrodomésticos.<br>Instalar o reparar suelos de todo tipo, incluyendo alicatado, vinilo y más.<br>Acceder a carpinteros para servicios de carpintería de aluminio y PVC.<br>Contratar servicios de limpieza del hogar para dejar tu espacio impecable.<br>Gestionar mudanzas de manera eficiente y sin complicaciones.<br>Además, con IKEA Home puedes gestionar tus proyectos de reforma fácilmente desde la app, desde la solicitud inicial hasta la finalización del servicio, asegurando siempre una alta calidad y a un precio asequible.<br>¿Cómo funciona IKEA Home? Es muy fácil:<br>Explora las categorías de servicios y encuentra el profesional que mejor se ajuste a tus necesidades.<br>Solicita el servicio y recibe un presupuesto personalizado por parte de profesionales cualificados.<br>Coordina todos los detalles directamente a través de la app, y deja que los expertos se encarguen del resto.<br>¿Cuáles son los beneficios de utilizar IKEA Home?<br>Confianza: Todos los profesionales están certificados y verificados para ofrecer un servicio de máxima calidad.<br>Comodidad: Desde la solicitud hasta la finalización del servicio, todo se gestiona de forma sencilla desde la app.<br>Variedad de servicios: Accede a un catálogo de servicios que cubre todas las necesidades de tu hogar, desde pequeñas reparaciones hasta reformas integrales.<br>Transparencia: Consulta reseñas de otros usuarios y selecciona al profesional que mejor se ajuste a tus necesidades y presupuesto.<br>Ahorro de tiempo: Recibe varias propuestas sin necesidad de buscar por tu cuenta, y elige la mejor opción de forma rápida y sencilla.<br>Descubre la forma más fácil y segura de mejorar tu hogar con IKEA Home.",
+    "summary": "Servicios de mejora del hogar",
+    "installs": "100.000+",
+    "minInstalls": 100000,
+    "maxInstalls": 315923,
+    "score": 3.85,
+    "scoreText": "3,8",
+    "ratings": 230,
+    "reviews": 72,
+    "histogram": {
+      "1": 38,
+      "2": 6,
+      "3": 24,
+      "4": 36,
+      "5": 121
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": false,
+    "androidVersion": "8.1",
+    "androidVersionText": "8.1",
+    "androidMaxVersion": "VARY",
+    "developer": "Inter IKEA Systems B.V",
+    "developerId": "Inter+IKEA+Systems+B.V",
+    "developerEmail": "ikeahome.soporte.es@ikea.com",
+    "developerWebsite": "https://www.ikea.com/es/es/customer-service/",
+    "privacyPolicy": "https://www.ikea.com/es/es/customer-service/privacy-policy/politica-de-privacidad-de-ikea-home-pubce205740",
+    "developerInternalID": "Inter+IKEA+Systems+B.V",
+    "genre": "Estilo de vida",
+    "genreId": "LIFESTYLE",
+    "categories": [
+      {
+        "name": "Estilo de vida",
+        "id": "LIFESTYLE"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/fGV3ZU6EQCXdkECwYqy4WGNShXvMm0kv8-snpZtT5-wgeQgs7VuIYH7W3R8yOAp_k0id",
+    "headerImage": "https://play-lh.googleusercontent.com/ZpuzKIy-6lalGUJzc6D2YSqPXPC7OicdNQ9nlzNMn8S-_vGP4x_imi_zpPhD5BoBqIM",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/3ZT0N9MH1L3XMs8nXlDogh1rXCIGRxpl7pVKtNc2z-4Fu5x0URasLBiMlQd-pcc-u_gYf5gyYHutCXbU9UAXXK4",
+      "https://play-lh.googleusercontent.com/ppu7g3wjiHpWmz5gccsxf7YcFI3a-xhMGhaL2uMR7BYfyL8d67sDVx8wImo7mbSdlXdaIL-g_XXT4MxY7ixszg",
+      "https://play-lh.googleusercontent.com/P1avODiCsJ3u8DqN7LIvVQfl76TwaGsW509-0XlyS1-GsveOEm3q7-CMYM0fbfAjPXClWSJD1uNhIwnbCIfQ",
+      "https://play-lh.googleusercontent.com/qzED0-wxrMwZd53zGKuqERYpknSjGkt3DYrkxKXANoaJfcoSQrnbKNF3xCQLdUoi0x2f77mAfePKnU-2EnOYFw",
+      "https://play-lh.googleusercontent.com/tnhGCzpp_bXfibUUqk0kJ5zeIxIhS8rq2K2Bxn3PPrmW-NCbrW9WoC-PRwrxX_W1-y3ylmQYnkUHw6_qVSznBg"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": false,
+    "released": "9 jun 2024",
+    "updated": 1771945745000,
+    "version": "3.0.5",
+    "recentChanges": "• Indicador de agenda completa<br>• Plantillas en Novedades<br>• Subida de fotos corregida<br>• Mayor estabilidad",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "com.ikea.lhp",
+    "url": "https://play.google.com/store/apps/details?id=com.ikea.lhp&hl=es&gl=es"
+  }
+}

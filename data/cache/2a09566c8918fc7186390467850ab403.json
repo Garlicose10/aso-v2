@@ -1,0 +1,73 @@
+{
+  "key": "gplay_app_{\"appId\":\"es.digimobil.micuenta\"}_es_es",
+  "timestamp": "2026-03-02T11:10:18.153Z",
+  "data": {
+    "title": "Mi DIGI",
+    "description": "Descarga Mi DIGI y gestiona tus productos y servicios de forma más visual e intuitiva. \n\nSi eres cliente de fibra puedes:\n\n• Consultar tus facturas, el importe y la fecha en que se efectúan los pagos.\n• Pagar tus facturas pendientes.\n• Cambiar tu producto de fibra o pasarte a Fibra SMART cuando esté disponible en tu zona.\n• Contratar y gestionar servicios como DIGI storage o Conexión Plus. \n\nSi eres cliente de contrato puedes:\n\n• Consultar los gigas consumidos y acumulados.\n• Cambiar tus productos de móvil o contratar Fibra. \n• Configurar servicios como el buzón de voz o el aviso de llamadas perdidas.\n• Agrupar todos tus contratos. \n\nSi eres cliente de prepago puedes: \n\n• Consultar tu saldo, traspasarlo a otra línea o solicitar un anticipo de saldo. \n• Consultar los gigas y minutos consumidos. \n• Pasarte a contrato o activar más productos de móvil. \n• Configurar servicios como el buzón de voz o el aviso de llamadas perdidas.",
+    "descriptionHTML": "Descarga Mi DIGI y gestiona tus productos y servicios de forma más visual e intuitiva. <br><br>Si eres cliente de fibra puedes:<br><br>• Consultar tus facturas, el importe y la fecha en que se efectúan los pagos.<br>• Pagar tus facturas pendientes.<br>• Cambiar tu producto de fibra o pasarte a Fibra SMART cuando esté disponible en tu zona.<br>• Contratar y gestionar servicios como DIGI storage o Conexión Plus. <br><br>Si eres cliente de contrato puedes:<br><br>• Consultar los gigas consumidos y acumulados.<br>• Cambiar tus productos de móvil o contratar Fibra. <br>• Configurar servicios como el buzón de voz o el aviso de llamadas perdidas.<br>• Agrupar todos tus contratos. <br><br>Si eres cliente de prepago puedes: <br><br>• Consultar tu saldo, traspasarlo a otra línea o solicitar un anticipo de saldo. <br>• Consultar los gigas y minutos consumidos. <br>• Pasarte a contrato o activar más productos de móvil. <br>• Configurar servicios como el buzón de voz o el aviso de llamadas perdidas.",
+    "summary": "Aplicación oficial de DIGI para que gestiones tus líneas y servicios",
+    "installs": "1.000.000+",
+    "minInstalls": 1000000,
+    "maxInstalls": 2681770,
+    "score": 4.490282,
+    "scoreText": "4,5",
+    "ratings": 16037,
+    "reviews": 7719,
+    "histogram": {
+      "1": 1135,
+      "2": 270,
+      "3": 432,
+      "4": 1950,
+      "5": 12245
+    },
+    "price": 0,
+    "free": true,
+    "currency": "EUR",
+    "priceText": "Free",
+    "available": true,
+    "offersIAP": false,
+    "androidVersion": "8.0",
+    "androidVersionText": "8.0",
+    "androidMaxVersion": "VARY",
+    "developer": "DIGI Spain",
+    "developerId": "DIGI+Spain",
+    "developerEmail": "atencionalcliente@digimobil.es",
+    "developerWebsite": "https://www.digimobil.es",
+    "privacyPolicy": "https://midigi.digimobil.es/legal/privacy",
+    "developerInternalID": "DIGI+Spain",
+    "genre": "Herramientas",
+    "genreId": "TOOLS",
+    "categories": [
+      {
+        "name": "Herramientas",
+        "id": "TOOLS"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/s9XiQTB7JiZ_VL_OQwxOKRu2tha6Y8ZWbcCqYvB1pA0-riAzuEx2eJ7M099TX0V_Xs4",
+    "headerImage": "https://play-lh.googleusercontent.com/JJ05F5Cz0Y209gj30v0o6F08qM4C0WFJ4RUaTon01bpAaWWxSRGEmvk1gScKq-Yje9c",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/c6grMPor41svbpr0_PTPeQxYIbSQy9gwAKMa-WIuRZyl5XZNQ84ghEoywTrSniiA0w",
+      "https://play-lh.googleusercontent.com/AaX8iOVPtpIGcd7U5mT8z2oUWQzod5z7rVGMT-0M34QCRW2awkphe_1yp7ydna0rwA",
+      "https://play-lh.googleusercontent.com/hUzjVLhLBtngJ6ysHmInbJCbyQS9a9a-zdizYkltvY3IwAoVBpHWMkwvFx6PWj_LX5s",
+      "https://play-lh.googleusercontent.com/KjRBFwiuzWTRjUafAnXVxaA2LewA7BCUER1QKlJVBBFHOfEGtR91VjlXtFaws52xip_7",
+      "https://play-lh.googleusercontent.com/687vYyKZbRaKMt8Yy7qcpAWSaUTH-YUgZtA4EZOtmpptVIqf2yyewC9CXB3YY5OjDw",
+      "https://play-lh.googleusercontent.com/Nmd_kFti7X1TFIHse00r_R4v3Flj0Ggx1EmENB8vDdTsBQ87PABd4NQ_4yM7DdgAW8o",
+      "https://play-lh.googleusercontent.com/_uxnTPw9SviOMG29_qtqJCGTN6Zp_2HZ9jwoJQ8_GGNerv7BJyTY0GJnUJ4X5lNksIQ",
+      "https://play-lh.googleusercontent.com/z06kAwY7tSdlYNZ0gjEPa85LGpBOE1uSOnIGm3hvNRiMw7Hfo7STK5OmJZovb7xWCxoW",
+      "https://play-lh.googleusercontent.com/8_kpQ7QXPgl6lLEMLFlW4vt76XK1BFhOOjbbClwhFekeL28uQg_TDXwUxz9MvYlgA7g",
+      "https://play-lh.googleusercontent.com/Lal2QAGN8aIORNcOUlrx2AREOxdTbviC9YGmf2wo7fvIOZZXT6boQgQGWKKzAPg5fF0"
+    ],
+    "contentRating": "PEGI 3",
+    "adSupported": false,
+    "released": "15 sept 2020",
+    "updated": 1753714776000,
+    "version": "1.1.2",
+    "recentChanges": "Correcciones leves.",
+    "comments": [],
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "isAvailableInPlayPass": false,
+    "appId": "es.digimobil.micuenta",
+    "url": "https://play.google.com/store/apps/details?id=es.digimobil.micuenta&hl=es&gl=es"
+  }
+}

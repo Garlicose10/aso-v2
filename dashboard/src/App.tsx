@@ -80,10 +80,13 @@ function App() {
   const [selectedApp, setSelectedApp] = useState<any | null>(null);
 
   // New State for Clone Mode
-  const [mode, setMode] = useState<'keyword' | 'app'>('keyword');
+  const [mode, setMode] = useState<'keyword' | 'app' | 'discover'>('keyword');
   const [appSearchQuery, setAppSearchQuery] = useState('');
   const [appSearchResults, setAppSearchResults] = useState<any[]>([]);
   const [selectedTargetApp, setSelectedTargetApp] = useState<any | null>(null);
+
+  // Oceans State
+  const [discoveredOceans, setDiscoveredOceans] = useState<any[]>([]);
 
   // History State
   const [history, setHistory] = useState<any[]>([]);
@@ -140,24 +143,26 @@ function App() {
     return () => clearTimeout(timer);
   }, [appSearchQuery, mode]);
 
-  const analyze = async () => {
+  const analyze = async (overrideApp?: any) => {
     setLoading(true);
     setError('');
     setReport(null);
 
     try {
       let url = '';
+      const targetApp = overrideApp || selectedTargetApp;
+
       if (mode === 'keyword') {
         if (!keyword.trim()) return;
         url = `http://localhost:3000/api/analyze?keyword=${encodeURIComponent(keyword)}`;
       } else {
-        if (!selectedTargetApp && !appSearchQuery.includes('http')) {
+        if (!targetApp && !appSearchQuery.includes('http')) {
           setError('Por favor selecciona una app de la lista o pega una URL válida');
           setLoading(false);
           return;
         }
         // If user pasted a URL directly
-        const appId = selectedTargetApp ? selectedTargetApp.appId : appSearchQuery; // Server handles URL parsing
+        const appId = targetApp ? targetApp.appId : appSearchQuery; // Server handles URL parsing
         url = `http://localhost:3000/api/analyze-app?appId=${encodeURIComponent(appId)}`;
       }
 
@@ -168,14 +173,33 @@ function App() {
 
       // Save to History
       addToHistory(
-        mode,
-        mode === 'keyword' ? keyword : (selectedTargetApp?.title || appSearchQuery),
+        mode === 'discover' ? 'app' : mode,
+        mode === 'keyword' ? keyword : (targetApp?.title || appSearchQuery),
         data.verdict,
         data.scores.opportunity
       );
 
     } catch (err) {
       setError('Análisis fallido. Por favor intenta de nuevo.');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const discoverOceans = async () => {
+    setMode('discover');
+    setLoading(true);
+    setError('');
+    setReport(null);
+    setDiscoveredOceans([]);
+
+    try {
+      const response = await fetch('http://localhost:3000/api/discover');
+      if (!response.ok) throw new Error('Error al explorar océanos');
+      const data = await response.json();
+      setDiscoveredOceans(data);
+    } catch (err) {
+      setError('Exploración fallida. Por favor intenta de nuevo.');
     } finally {
       setLoading(false);
     }
@@ -221,14 +245,24 @@ function App() {
               >
                 🐑 Clonar App
               </button>
+              <button
+                onClick={discoverOceans}
+                className={`px-6 py-2 rounded-lg text-sm font-bold transition-all ${mode === 'discover' ? 'bg-blue-600 text-white shadow-lg' : 'text-slate-400 hover:text-white'}`}
+              >
+                🌊 Océanos Azules
+              </button>
             </div>
           </div>
 
           <div className="relative max-w-xl mx-auto group z-20">
-            <div className={`absolute -inset-0.5 bg-gradient-to-r ${mode === 'keyword' ? 'from-purple-600 to-pink-600' : 'from-pink-600 to-orange-600'} rounded-xl blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt`}></div>
+            <div className={`absolute -inset-0.5 bg-gradient-to-r ${mode === 'keyword' ? 'from-purple-600 to-pink-600' : mode === 'app' ? 'from-pink-600 to-orange-600' : 'from-blue-600 to-cyan-500'} rounded-xl blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt`}></div>
             <div className="relative flex gap-2 p-2 bg-slate-900 rounded-xl border border-white/10">
 
-              {mode === 'keyword' ? (
+              {mode === 'discover' ? (
+                <div className="flex-1 w-full text-center py-3 text-blue-400 font-bold">
+                  {loading ? 'Navegando aguas profundas...' : <button onClick={discoverOceans} className="underline">Explorar de nuevo</button>}
+                </div>
+              ) : mode === 'keyword' ? (
                 <input
                   type="text"
                   placeholder="Palabra clave semilla (ej: 'yoga para perros')"
@@ -275,27 +309,60 @@ function App() {
                 </div>
               )}
 
-              <button
-                onClick={analyze}
-                disabled={loading}
-                className="bg-white text-slate-900 px-8 rounded-lg font-bold hover:bg-slate-200 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
-              >
-                {loading ? (
-                  <>
-                    <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
-                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
-                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
-                    </svg>
-                    {mode === 'keyword' ? 'Minando...' : 'Analizando...'}
-                  </>
-                ) : (
-                  'Analizar'
-                )}
-              </button>
+              {mode !== 'discover' && (
+                <button
+                  onClick={() => analyze()}
+                  disabled={loading}
+                  className="bg-white text-slate-900 px-8 rounded-lg font-bold hover:bg-slate-200 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+                >
+                  {loading ? (
+                    <>
+                      <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+                      </svg>
+                      {mode === 'keyword' ? 'Minando...' : 'Analizando...'}
+                    </>
+                  ) : (
+                    'Analizar'
+                  )}
+                </button>
+              )}
             </div>
 
+            {/* Discovered Oceans Results */}
+            {mode === 'discover' && discoveredOceans.length > 0 && !report && (
+              <div className="mt-8 text-left mx-auto animate-fade-in">
+                <h3 className="text-xl font-bold text-blue-400 mb-4 ml-2">🌊 Oportunidades Encontradas</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {discoveredOceans.map((app, i) => (
+                    <div
+                      key={i}
+                      onClick={() => {
+                        setMode('app');
+                        setSelectedTargetApp(app);
+                        setAppSearchQuery(app.title);
+                        analyze(app);
+                      }}
+                      className="bg-slate-800/80 border border-white/5 hover:border-blue-500/50 hover:bg-slate-800 p-4 rounded-xl flex items-start gap-4 cursor-pointer group transition-all"
+                    >
+                      <img src={app.icon} className="w-16 h-16 rounded-xl bg-slate-700" referrerPolicy="no-referrer" />
+                      <div className="flex-1 overflow-hidden">
+                        <div className="font-bold text-white group-hover:text-blue-300 transition-colors truncate">{app.title}</div>
+                        <div className="text-xs text-slate-400 mb-2 truncate">{app.developer}</div>
+                        <div className="flex gap-2 text-xs font-bold">
+                          <span className="bg-red-500/20 text-red-400 px-2 py-1 rounded">⭐ {app.score?.toFixed(1) || '?'}</span>
+                          <span className="bg-green-500/20 text-green-400 px-2 py-1 rounded">⏬ {app.installs}</span>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
             {/* Recent Searches */}
-            {history.length > 0 && !report && (
+            {history.length > 0 && !report && mode !== 'discover' && (
               <div className="mt-8 text-left max-w-lg mx-auto animate-fade-in">
                 <h3 className="text-xs font-bold text-slate-500 uppercase mb-3 ml-2">Historial Reciente</h3>
                 <div className="space-y-2">
